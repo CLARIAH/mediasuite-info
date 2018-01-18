@@ -11,3 +11,9 @@
 
 .anchor { padding-top: 116px;
   margin-top:-120px; }
+.TOC .toc a.indent-1 {
+  margin-left: 10px;
+}
+.TOC .toc a.indent-2 {
+  margin-left: 20px;
+}
