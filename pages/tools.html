@@ -34,7 +34,7 @@ title: Media Suite Documentation
                                     tasks).
                                 <li> Go to the "Details" button of each tools to learn about each specific tool.
                                     There you will also find a link to the "User manuals" of each tool. <a
-                            href="https://www.youtube.com/results?search_query=clariah+screencasts">You can also visit the CLARIAH YouTube channel with screencasts</a></p>
+                            href="https://www.youtube.com/results?search_query=clariah+screencasts">You can also visit the CLARIAH YouTube channel with screencasts.</a></p>
                                 <li> Click on the "Open" button of the tool if you are ready to use it.
                             </ol>
                         </li>
@@ -63,7 +63,67 @@ title: Media Suite Documentation
                     </div>
                     <div class="child" id="docs-tools-search">
                         <div><h4 class="anchor">3.3. Search</h4>
-                            <p>Dedicated tool for searching/exploring through a single collection.</p>
+                            <h4 class="anchor">3.3. Search</h4>
+                    <p>Dedicated tool for searching/exploring through a single collection. Among other functionalities, it supports:</p>
+                    <ul>
+                    <li>Boolean queries: at this moment (version 2) the search API detects when a user does a boolean/wildcard query by looking for the keywords: <strong>OR</strong>, <strong>NOT</strong>, <strong>AND</strong>, <strong>*</strong> or <strong>?</strong>
+                    <ul>
+                    <li>Please keep into account that the default operator is <strong>OR</strong></li>
+                    <li>Boolean queries are case-sensitive</li>
+                    <li>Nesting is supported, e.g.,&nbsp;(koe AND varkens) OR boeren</li>
+                    <li>Future work includes supporting proximity parameters.</li>
+                    </ul>
+                    </li>
+                    </ul>
+                    <ul>
+                    <li>Field cluster search: Users can determine in which group of fields they want the system to look for their query expression.
+                    <ul>
+                    <li>At this moment (version 2) we support:
+                    <ul>
+                    <li>All fields: searches in all the metadata</li>
+                    <li>Title field cluster: searches in all fields(per each collection) which contain titles&nbsp;</li>
+                    <li>Description field cluster: searches in all fields&nbsp;(per each collection) which contain descriptions (e.g., summaries, abstracts)</li>
+                    <li>Other clusters: depending on the collection there may be other clusters available (e.g., "Subtitles" for the Sound and Vision audio-visual collection).&nbsp;</li>
+                    </ul>
+                    </li>
+                    <li>The list of fields that is aggregated in each cluster is included in a tool-tip</li>
+                    <li>Forthcoming in version 3: creating custom aggregations.</li>
+                    </ul>
+                    </li>
+                    </ul>
+                    <ul>
+                    <li>Faceted search: Facets include aggregations of terms from the metadata fields of the type "Keyword field", the terms included in each facet can be used for filtering the results of your query. To see the metadata fields that are of the type "Keyword", you can use the "Inspect" tool. At this moment (version 2) we support:
+                    <ul>
+                    <li>Default facets per collection: we include facets for the most important fields in each collection (e.g., "Broadcaster" for the Sound and Vision collection)</li>
+                    <li>Creation of new facets: users are allowed to add their own facets to the faceted search functionality (see screencast: <a href="https://www.youtube.com/watch?v=cA7c53e-MAQ">Search</a>)</li>
+                    </ul>
+                    </li>
+                    </ul>
+                    <ul>
+                    <li>Date filters: You can limit your query to a specific period of time. It is important to keep in mind that collections often include several fields of the type "Date".&nbsp;To see the metadata fields that are of the type "Date", you can use the "Inspect" tool.
+                    <ul>
+                    <li>In the date filter, you first have to select which date field you would like to use for filtering, and then enter the date range.</li>
+                    <li>If you don't select a date field, you won't see the visualization of your results based on time.</li>
+                    </ul>
+                    </li>
+                    </ul>
+                    <ul>
+                    <li>List of search results: The Search tool gives a list of search results after entering your query and filters. You can in this list:
+                    <ul>
+                    <li>Order results per relevance (<em>description to be included soon)</em></li>
+                    <li>Order results per date: it chooses the date field you used for filtering</li>
+                    <li>See a summary of the metadata: using the "document" icon on the left</li>
+                    <li>See information per item about:
+                    <ul>
+                    <li>Media type: there are icons on the right side of each item indicating whether it is of the type image, audio, video, or text</li>
+                    <li>Access: if you can "view", "play", "read" a document, you will see an icon with an open eye on the right side of the item</li>
+                    </ul>
+                    </li>
+                    <li>Bookmark items (see the section on <a href="https://clariah.github.io/mediasuite-info/pages/workspace.html">Workspace</a> in this manual)</li>
+                    </ul>
+                    </li>
+                    </ul>
+                    </p>
                         </div>
                         <div class="child" id="docs-tools-compare">
                             <div>
