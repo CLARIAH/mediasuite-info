@@ -5,23 +5,40 @@ title: Media Suite Documentation
 <div class="blurb">
     <div class="TOC">
         <div class="toc">
-            <a href="/" class="indent-0 "><span>Introduction</span></a>
-            <a href="faq.html" class="indent-0"><b>1. FAQ</b></a>
-            <a href="data.html" class="indent-0"><b>2. Data</b></a>
-            <a href="tools.html" class="indent-0 active"><b>3.Tools</b></a>
-            <a href="#docs-tools-inspect-metadata" class="indent-1"><span>3.1 Inspect metadata</span></a>
-            <a href="#docs-tools-browse-explore" class="indent-1"><span>3.2 Browse & explore</span></a>
-            <a href="#docs-tools-search" class="indent-1"><span>3.3 Search</span></a>
-            <a href="#docs-tools-compare" class="indent-1"><span>3.4 Compare</span></a>
-            <a href="#docs-tools-analyze_annotate" class="indent-1"><span>3.5. Analyze (annotate, enrich)</span></a>
-            <a href="workspace.html" class="indent-0"><b>4. Workspace</b></a>
-            <a href="apis.html" class="indent-0"><b>5. APIs</b></a>
-            <a href="release-notes.html" class="indent-0"><b>6. Release notes</b></a>
+            <a href="/mediasuite-info/" class="indent-0 active"><span>Introduction</span></a>
+            <a href="/mediasuite-info/pages/faq.html" class="indent-0"><b>FAQ</b></a>
+            <a href="/mediasuite-info/pages/user-manual.html" class="indent-1"><b>User manual</b></a>
+            <a href="/mediasuite-info/pages/data.html" class="indent-2"><b>1. Data</b></a>
+            <a href="/mediasuite-info/pages/tools.html" class="indent-2"><b>2.Tools</b></a>
+            <!--<a href="#docs-tools-inspect-metadata" class="indent-1"><span>Inspect metadata</span></a>-->
+            <!--<a href="#docs-tools-browse-explore" class="indent-1"><span>Browse & explore</span></a>-->
+            <!--<a href="#docs-tools-search" class="indent-1"><span>Search</span></a>-->
+            <!--<a href="#docs-tools-compare" class="indent-1"><span>Compare</span></a>-->
+            <!--<a href="#docs-tools-analyze-annotate" class="indent-1"><span>Analyze (annotate)</span></a>-->
+            <a href="/mediasuite-info/pages/workspace.html" class="indent-2"><b>3. Workspace</b></a>
+            <!--<a href="#docs-user-projects" class="indent-2"><span>User Projects</span></a>-->
+            <!--<a href="#docs-bookmarks-annotations" class="indent-3"><span>Bookmarks &amp; Annotations</span></a>-->
+            <!--<a href="#docs-tool-sessions" class="indent-3"><span>Tool Sessions</span></a>-->
+            <a href="/mediasuite-info/pages/apis.html" class="indent-0"><b>APIs and technical documentation</b></a>
+            <a href="/mediasuite-info/pages/release-notes.html" class="indent-0"><b>Release notes</b></a>
+            <!--<a href="#release-notes-v2" class="indent-1"><span>Version 2 (12/20/2017)</span></a>-->
+            <!--<a href="#release-notes-v2-1" class="indent-1"><span>Version 2.1 (01/25/2018)</span></a>-->
+            <!--<a href="#release-notes-v3" class="indent-1"><span>Version 3 (20/06/2018)</span></a>-->
         </div>
         <div class="children">
-
+            <div class="child" id="docs-intro">
+                <div><h2 class="anchor">Introduction</h2>
+                     <p>This page includes documentation of the CLARIAH Media Suite intended to facilitate its use by
+                        scholars (researchers) and curators (content/data providers). <a
+                            href="https://www.youtube.com/results?search_query=clariah+screencasts">You can also visit the CLARIAH YouTube channel with screencasts.</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        <div class="children">
             <div class="child" id="docs-tools">
-                <div><h2 class="anchor">3. Tools</h2>
+                <div><h2 class="anchor">2. Tools</h2>
                     <p>The functionalities offered by the Media Suite enable researchers to access (search, browse,
                         view) data/collections and perform tasks with them. These include: inspect the collection's
                         metadata structure and completness, browse, search, view the media objects (in most cases),
@@ -42,7 +59,7 @@ title: Media Suite Documentation
                 </div>
             </div>
             <div class="child" id="docs-tools-inspect-metadata">
-                <div><h4 class="anchor">3.1. Inspect metadata</h4>
+                <div><h4 class="anchor">Inspect metadata</h4>
                     <p>The "collection inspection" functionalities support the scholarly tasks of \"Data critique\"
                         by facilitating the close inspection of the metadata fields that constitute each collection.
                         This tool offers basic support to perform data analytics tasks on these metadata (e.g.,
@@ -56,13 +73,13 @@ title: Media Suite Documentation
                         tools.</p>
                 </div>
                 <div class="child" id="docs-tools-browse-explore">
-                    <div><h4 class="anchor">3.2. Browse & explore</h4>
+                    <div><h4 class="anchor">Browse & explore</h4>
                         <p>DIVE+ browser is a linked-data, event-based browser, based on the simple event data
                             model, where you can browse and search in an ”infinite” fashion in different heritage
                             collections at the same time. It supports the creation of browsing narratives.</p>
                     </div>
                     <div class="child" id="docs-tools-search">
-                        <div><h4 class="anchor">3.3. Search</h4>
+                        <div><h4 class="anchor">Search</h4>
                     <p>Dedicated tool for searching/exploring through a single collection. Among other functionalities, it supports:</p>
                     <ul>
                     <li>Boolean queries: at this moment (version 2) the search API detects when a user does a boolean/wildcard query by looking for the keywords: <strong>OR</strong>, <strong>NOT</strong>, <strong>AND</strong>, <strong>*</strong> or <strong>?</strong>
@@ -126,12 +143,12 @@ title: Media Suite Documentation
                         </div>
                         <div class="child" id="docs-tools-compare">
                             <div>
-                                <h4 class="anchor">3.4. Compare</h4>
+                                <h4 class="anchor">Compare</h4>
                                 <p>This tool facilitates comparative (re)search based on multiple queries on the
                                     same or different collections.</p>
                 </div>
                 <div id="docs-tools-analyze_annotate" class="child">
-                    <div><h4 class="anchor">3.5. Analyze (annotate, enrich)</h4>
+                    <div><h4 class="anchor">Analyze (annotate)</h4>
                         <p>This section is under construction... Temporarily, you can consult the user manual of the annotation tool <a href="https://docs.google.com/document/d/1yfP96ZXhU2OLLcqBuf6Qa6soJtUMSE57ZLouymJSUNE/edit#">here</a>. You can also find two screencasts about how to use this tool here: Screencasts manual video annotation <a href="https://www.youtube.com/watch?v=el5QzQgh58g&amp;t=11s">(1)</a>, and <a href="https://www.youtube.com/watch?v=KL-YXK856OQ">(2)</a></p>
                         <p>The most important keys to use are:</p>
                         <ul>
