@@ -1,0 +1,5 @@
+<p>Queries or "Saved queries" store the parametes of a query that you have saved in the Search tool.</p>
+<h3>Queries</h3>
+<p>Because the Search tool offered in the Media Suite supports the creation of advanced queries, users may like to save the parameters of those queries for further reference. For example: the search terms (or Boolean expressions), the selected date fields and date ranges, the selected facets, among others. Users can save these query parameters, assigning a name to the queries.</p>
+<p>Here in the Worspace you find the queries that were saved using the Search tool. You can "replay" the saved query, which means that the parameters will be loaded in the Search tool again, obtaining the results for that query (these results may be updated if new items were added to the index). Users can also use these saved queries to compare the occurrence of search results over time. For this, please look at the documentation of the Comparative Search tool.</p>
+<a href="https://clariah.github.io/mediasuite-info/">Read all documentation</a>
