@@ -62,6 +62,15 @@
                 "content": "workspace/user-projects/bookmarks"
               }
             ]
+        },
+        {
+          "title": "4.2 User Collections",
+          "content": "workspace/user-collections",
+          "children":[]
+        },
+        {
+          "title": "4.3 Jupyter Notebooks",
+          "content": "workspace/jupyter-notebooks"
         }
       ]
   }
