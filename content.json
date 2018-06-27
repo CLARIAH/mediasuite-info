@@ -46,15 +46,19 @@
           "content": "workspace/user-projects",          
           "children":[
               {
-                "title": "4.1.1 Create/Edit",
-                "content": "workspace/user-projects/create-edit"
+                "title": "4.1.1 Create",
+                "content": "workspace/user-projects/create"
               },
               {
-                "title": "4.1.2 Details",
+                "title": "4.1.2 Edit",
+                "content": "workspace/user-projects/edit"
+              },
+              {
+                "title": "4.1.3 Details",
                 "content": "workspace/user-projects/details"
               },
               {
-                "title": "4.1.3 Bookmarks",
+                "title": "4.1.4 Bookmarks",
                 "content": "workspace/user-projects/bookmarks"
               }
             ]
