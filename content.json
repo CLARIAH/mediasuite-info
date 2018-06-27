@@ -9,11 +9,11 @@
   },
   {
     "title": "2. Data",
-    "content": "data/index"
+    "content": "data"
   },
   {
     "title": "3. Tools",
-    "content": "tools/index",
+    "content": "tools",
     "children": [
       {
         "title": "3.1 Collection Inspector",
@@ -39,11 +39,11 @@
   },
   {
       "title": "4. Workspace",
-      "content": "workspace/index",
+      "content": "workspace",
       "children": [
         {
           "title": "4.1 User Projects",
-          "content": "workspace/user-projects/index",          
+          "content": "workspace/user-projects",          
           "children":[
               {
                 "title": "4.1.1 Create/Edit",
