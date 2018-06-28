@@ -1,10 +1,4 @@
 Workspace
 ---
 
-This is my example text
-
-**bold**
-
-- item
-- item
-- item
+The Workspace is an enviroment for users of the Media Suite to work with their personally created collections (bookmarks, annotations, queries), and to upload and enrich their own data.

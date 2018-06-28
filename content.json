@@ -51,7 +51,7 @@
       },
       {
         "title": "Register data",
-        "content": "faq/register-data"
+        "content": "data/register-data"
       },
       {
         "title": "Metadata dictionaries",
@@ -61,7 +61,7 @@
         "title": "Automatic enrichments",
         "content": "data/automatic-enrichments"
       }
-  	]
+    ]
 },
   {
     "title": "Tools",
@@ -77,7 +77,7 @@
       },
       {
         "title": "Search",
-        "content": "tools/search"
+        "content": "tools/single-search"
       },
       {
         "title": "Compare",
@@ -130,14 +130,12 @@
                 "content": "workspace/user-projects/tool-sessions"
               }
             ]
-      }
-  ]
-  },
+      },
         {
           "title": "User Collections",
           "content": "workspace/user-collections",
           "children":[
-          	  {
+              {
                 "title": "Create",
                 "content": "workspace/user-collections/create"
               },
@@ -148,7 +146,9 @@
               {
                 "title": "Enrich",
                 "content": "workspace/user-collections/enrich"
-              },
+              }
+              ]
+        },
 
         {
                 "title": "Jupyter Notebooks",
@@ -164,7 +164,7 @@
           "title": "Release notes",
           "content": "release-notes",
           "children":[
-          	  {
+              {
                 "title": "Version 1",
                 "content": "release-notes/v1"
               },
@@ -174,7 +174,7 @@
               },
               {
                 "title": "Version 2.1",
-                "content": "release-notes/v2.1"
+                "content": "release-notes/v2-1"
               },
               {
                 "title": "Version 3",
@@ -202,7 +202,7 @@
       },
       {
         "title": "AVResearcher",
-        "content": "glossary/avresercher"
+        "content": "glossary/avresearcher"
       },
       {
         "title": "CoMeRDa",
