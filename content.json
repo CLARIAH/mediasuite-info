@@ -4,73 +4,233 @@
     "content": "introduction"
   },
   {
-    "title": "1. FAQ",
-    "content": "faq"
-  },
-  {
-    "title": "2. Data",
-    "content": "data"
-  },
-  {
-    "title": "3. Tools",
-    "content": "tools",
+    "title": "FAQ",
+    "content": "faq",
     "children": [
       {
-        "title": "3.1 Collection Inspector",
-        "content": "tools/collection-inspector"
+        "title": "What is the CLARIAH Media Suite?",
+        "content": "faq/what-is-it"
       },
       {
-        "title": "3.2 Exploratory Search",
-        "content": "tools/exploratory-search"
+        "title": "What kind of data is available via the Media Suite?",
+        "content": "faq/what-data"
       },
       {
-        "title": "3.3 Single Search",
-        "content": "tools/single-search"
+        "title": "How can I access the Media Suite?",
+        "content": "faq/how-to-access"
       },
       {
-        "title": "3.4 Query Comparison",
-        "content": "tools/query-comparison"
+        "title": "Can I play/view all the sources that I find via the Media Suite?",
+        "content": "faq/howto-play-view"
       },
       {
-        "title": "3.5 Resource Viewer",
-        "content": "tools/resource-viewer"
+        "title": "How does the Media Suite work?",
+        "content": "faq/how-it-works"
+      },
+       {
+        "title": "How is the Media Suite being built?",
+        "content": "faq/how-is-built"
+      },
+      {
+        "title": "Who develops the Media Suite?",
+        "content": "faq/who-develops"
+      },
+      {
+        "title": "Where is the Media Suite hosted?",
+        "content": "faq/where-is-hosted"
       }
     ]
   },
   {
-      "title": "4. Workspace",
+    "title": "Data",
+    "content": "data",
+    "children": [
+      {
+        "title": "Find data",
+        "content": "data/find-data"
+      },
+      {
+        "title": "Register data",
+        "content": "faq/register-data"
+      },
+      {
+        "title": "Metadata dictionaries",
+        "content": "data/metadata-dictionaries"
+      },
+      {
+        "title": "Automatic enrichments",
+        "content": "data/automatic-enrichments"
+      }
+  	]
+},
+  {
+    "title": "Tools",
+    "content": "tools",
+    "children": [
+      {
+        "title": "Inspect",
+        "content": "tools/collection-inspector"
+      },
+      {
+        "title": "Explore",
+        "content": "tools/exploratory-search"
+      },
+      {
+        "title": "Search",
+        "content": "tools/search"
+      },
+      {
+        "title": "Compare",
+        "content": "tools/query-comparison"
+      },
+      {
+        "title": "View",
+        "content": "tools/resource-viewer"
+      },
+      {
+        "title": "Annotate",
+        "content": "tools/annotate"
+      }
+    ]
+  },
+{
+      "title": "Workspace",
       "content": "workspace",
       "children": [
         {
-          "title": "4.1 User Projects",
+          "title": "User Projects",
           "content": "workspace/user-projects",          
           "children":[
               {
-                "title": "4.1.1 Create",
+                "title": "Create",
                 "content": "workspace/user-projects/create"
               },
               {
-                "title": "4.1.2 Edit",
+                "title": "Edit",
                 "content": "workspace/user-projects/edit"
               },
               {
-                "title": "4.1.3 Details",
+                "title": "Details",
                 "content": "workspace/user-projects/details"
               },
               {
-                "title": "4.1.4 Bookmarks",
+                "title": "Bookmarks",
                 "content": "workspace/user-projects/bookmarks"
+              },
+              {
+                "title": "Annotations",
+                "content": "workspace/user-projects/annotations"
+              },
+              {
+                "title": "Saved queries",
+                "content": "workspace/user-projects/queries"
+              },
+              {
+                "title": "Tool sessions",
+                "content": "workspace/user-projects/tool-sessions"
               }
             ]
-        },
+      }
+  ]
+  },
         {
-          "title": "4.2 User Collections",
+          "title": "User Collections",
           "content": "workspace/user-collections",
-          "children":[]
+          "children":[
+          	  {
+                "title": "Create",
+                "content": "workspace/user-collections/create"
+              },
+              {
+                "title": "Edit",
+                "content": "workspace/user-collections/edit"
+              },
+              {
+                "title": "Enrich",
+                "content": "workspace/user-collections/enrich"
+              },
+
+        {
+                "title": "Jupyter Notebooks",
+                "content": "workspace/jupyter-notebooks"
+              }
+          ]
+},
+    {
+        "title": "APIs",
+        "content": "apis"
         },
         {
-          "title": "4.3 Jupyter Notebooks",
-          "content": "workspace/jupyter-notebooks"
+          "title": "Release notes",
+          "content": "release-notes",
+          "children":[
+          	  {
+                "title": "Version 1",
+                "content": "release-notes/v1"
+              },
+              {
+                "title": "Version 2",
+                "content": "release-notes/v2"
+              },
+              {
+                "title": "Version 2.1",
+                "content": "release-notes/v2.1"
+              },
+              {
+                "title": "Version 3",
+                "content": "release-notes/v3"
+    }
+    ]
+    },
+  {
+    "title": "Development challenges",
+    "content": "development-challenges",
+    "children": [
+      {
+        "title": "Metadata transparency",
+        "content": "development-challenges/metadata-transparency"
+      }
+  ]
+},
+  {
+    "title": "GLOSSARY",
+    "content": "glossary",
+    "children": [
+      {
+        "title": "Alignment",
+        "content": "glossary/alignment"
+      },
+      {
+        "title": "AVResearcher",
+        "content": "glossary/avresercher"
+      },
+      {
+        "title": "CoMeRDa",
+        "content": "glossary/comerda"
+      },
+      {
+        "title": "DIVE",
+        "content": "glossary/dive"
+      },
+      {
+        "title": "JSON",
+        "content": "glossary/json"
+      },
+       {
+        "title": "Transcription",
+        "content": "glossary/transcription"
+      },
+      {
+        "title": "Trove",
+        "content": "glossary/trove"
+      },
+      {
+        "title": "User project",
+        "content": "glossary/user-project"
+      },
+      {
+        "title": "Verteld Verleden",
+        "content": "glossary/verteld-verleden"
         }
       ]
   }
