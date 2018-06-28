@@ -1,9 +1,0 @@
-## Can I play/view all the sources that I find via the Media Suite?
-
-The Media Suite provides access to data from different institutions ([data providers](http://mediasuitedata.clariah.nl/group)), but does not host all the media resources (e.g., videos, images, documents). When you find a resource that is not viewable/playable this may be due to three reasons:
-
-1. The resource may not have been digitised. In these cases, you can consult the metadata, but you cannot view the content. In the [[Search tool]], you will find in these cases an icon with a closed eye, you should consult the metadata in the [[Resource viewer]] to identify if the item is not digitised. A way to solve this is to contact (or visit) the the providing institution.
-2. The resource may be digitized, but not have been made available by the content provider to be played or viewed via the Media Suite. This can happen in the case of privacy or copyright restrictions. In Version 3, this case is most frequent in for the DANS oral history collections. In this case, you will find a closed eye icon next to the resource in your result list.
-3. The resource may have been made available by the content provider, but with certain additional security. In Version 3, this case applies to the collections provided by The Netherlands Institute for Sound and Vision. To play or view their content, you will have to request a VPN connection (use our [[contact information]], which has to be used even after being logged in to the Media Suite.
-
-See more information under the [[FAQ: What kind of data is available via the Media Suite?]].

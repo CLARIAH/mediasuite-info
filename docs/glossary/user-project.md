@@ -1,3 +1,0 @@
-## User project
-
-In the Media Suite, a "User project" is defined as a sort of container for storing personal corpora and annotations created during search and analysis of the data available in the Media Suite.  Some of the Qualitative Data Analysis (QDA) typically used by researchers, refer to user projects as "hermeneutic units" (in Atlas.ti) or "Projects" (in NVIVO). For instance, a researcher can create a user project for a topic or for a research question, which will help her/him to group together entire items or fragments for creating a corpus (the so-called "bookmarks"), manual annotations, queries, browsing history and "tool sessions: from the Exploratory tool (the so-called "navigation paths"), among others.
