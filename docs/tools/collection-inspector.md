@@ -1,4 +1,4 @@
-## Inspect
+## Tool: Inspect
 
 This is a tool for the inspection of the metadata types in a collection, as well as for the evaluation of metadata quality of those fields. At this moment (Version 3), the Inspect tool offers the option to evaluate metadata completeness, which is calculated based on the number of records for which a given metadata field has been filled in. This completeness can be evaluated per field (all years), or along time. 
 
