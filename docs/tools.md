@@ -1,10 +1,4 @@
 Tools
 ---
 
-This is my example text
-
-**bold**
-
-- item
-- item
-- item
+The Media Suite offers tools for searching, annotating, enriching, and working with personal collections.
