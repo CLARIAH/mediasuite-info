@@ -6,7 +6,9 @@ This is a tool for the inspection of the metadata types in a collection, as well
 
 The "collection inspection" functionalities support the scholarly tasks of \"Data critique\" by facilitating the close inspection of the metadata fields that constitute each collection. 
 
-This tool offers basic support to perform data analytics tasks on these metadata (e.g., detect incomplete data, or observe value distributions along date fields)". The purpose of this tool is to provide an overview of how a collection/dataset is constituted and also to allow a closer inspection of their metadata. It facilitates performing data analytics tasks on their metadata (e.g., detect incomplete data, observe value distributions along date fields). It is important to have clear that the collection inspector does not give search results. Future developments include the integration of other metrics (besides completeness) for the evaluation of metadata quality, and the possibility to visualize metadata completeness together with search results. 
+The purpose of this tool is to provide an overview of how a collection/dataset is constituted and also to allow a closer inspection of their metadata (e.g., detect incomplete data, or observe value distributions along date fields). 
+
+It is important to have clear that the collection inspector does not give search results. Future developments include the integration of other metrics (besides completeness) for the evaluation of metadata quality, and the possibility to visualize metadata completeness together with search results. 
 
 ### How to use
 
@@ -16,3 +18,5 @@ This tool offers basic support to perform data analytics tasks on these metadata
 4. There is a [[Jupyter notebook]] prepared for complementing the functions available in this tool. For example:
    - If you want to compare the completeness of two or more metadata fields
    - If you want to check the metadata completeness of a section of the collection (e.g., for resources of a certain media type)
+
+   > If you are interested in the completeness of the ASR (automatic speech recognition transcripts) of the Netherlands Institute for Sound and Vision's audio-visual collection, visit [this page](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments).
