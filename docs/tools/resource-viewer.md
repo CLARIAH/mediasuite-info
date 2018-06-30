@@ -13,9 +13,9 @@ This is the "Resource viewer." Here you can:
 
 The control buttons are still under development, but the hotkeys allow you to create fragments. These are the essential keyboard shortkuts:
 
-..-i (input key, start from a segment)
-..-o (output key, end from a segment)
-..-SHIFT+s (save the segment as an annotation)
-..-SHIFT+e (open annotation tool in a pop-up)
+- i (input key, start from a segment)
+- o (output key, end from a segment)
+- SHIFT+s (save the segment as an annotation)
+- SHIFT+e (open annotation tool in a pop-up)
 
 You can find more information about the annotation tool and other keyboard shorcuts [here](http://mediasuite.clariah.nl/documentation/tools/annotate).
