@@ -12,9 +12,29 @@ In this way, the editing tools evolved into a manual annotation tool that has be
 
 > See at our CLARIAH YouTube channel the [Screencast: "Manual video annotation"](https://www.youtube.com/watch?v=KL-YXK856OQ&t=157s), and [Annotate](https://www.youtube.com/watch?v=el5QzQgh58g&t=2s)
 
-The most important keys to use are:
+The control buttons are still under development, but the hotkeys allow you to create segments.
 
-i: input key (start from a segment)
-o: output key (end from a segment)
-SHIFT+s: save the segment as an annotation
-SHIFT+e: open the annotation pop-up
+**Essential keyboard shortkuts:**
+
+| Shortcut        |                                   |
+| -------------   |:---------------------------------:|
+| i               | input key (start from a segment)  |
+| o               | output key (end from a segment)   |
+| SHIFT+s         | save the segment as an annotation |
+
+
+**Other useful keyboard shortcuts:**
+
+| Shortcut        |                                                  |
+| -------------   |:------------------------------------------------:|
+| SHIFT + i       | jump to the marked starting point                |
+| SHIFT + o       | jump to the marked ending point                  |
+| SHIFT + 1-9     | jump forward x seconds in the video              |
+| Left arrow      | jump 1 minute back in the video                  |
+| Right arrow     | jump 1 minute ahead in the video                 |
+| SHIFT+n         | new segment                                      |
+| CTRL+n          | new segment from the end of the selected segment |
+| SHIFT+e         | open annotation tool in a pop-up                 |
+|SHIFT+rechts     | select the next segment                          |
+|SHIFT+links      | select the previous segment                      |
+|SHIFT+a          | add new annotation to the resource (as a whole)  |
