@@ -17,5 +17,6 @@ The control buttons are still under development, but the hotkeys allow you to cr
 - o (output key, end from a segment)
 - SHIFT+s (save the segment as an annotation)
 - SHIFT+e (open annotation tool in a pop-up)
+- SHIFT+n (new segment)
 
 You can find more information about the annotation tool and other keyboard shorcuts [here](http://mediasuite.clariah.nl/documentation/tools/annotate).
