@@ -7,7 +7,7 @@ Dedicated tool for searching/exploring through a single collection.
 
 Among other functionalities, it supports:
 
-- Boolean queries: at this moment (version 2) the search API detects when a user does a boolean/wildcard query by looking for the keywords: OR, NOT, AND, * or ?
+- Boolean queries: at this moment (version 3) the search API detects when a user does a boolean/wildcard query by looking for the keywords: OR, NOT, AND, * or ?
 - Please keep into account that the default operator is OR
 - Boolean queries are case-sensitive
 - Nesting is supported, e.g., (koe AND varkens) OR boeren

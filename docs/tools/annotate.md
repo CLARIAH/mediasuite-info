@@ -20,15 +20,15 @@ The control buttons are still under development, but the hotkeys allow you to cr
 - o (output key, end from a segment)
 - SHIFT+s (save the segment as an annotation)
 - SHIFT+e (open annotation tool in a pop-up)
+- SHIFT+n (new segment)
 
-**Other useful keyboard shortcuts:**
+**Other useful keyboard shortcuts (on test for Version 4):**
 
 - SHIFT + i (jump to the marked starting point)
 - SHIFT + o (jump to the marked ending point)
 - SHIFT + 1-9 (jump forward x seconds in the video)
 - Left arrow (jump 1 minute back in the video)
 - Right arrow (jump 1 minute ahead in the video)
-- SHIFT+n (new segment)
 - CTRL+n (new segment from the end of the selected segment)
 - SHIFT+rechts (select the next segment)
 - SHIFT+links (select the previous segment)
