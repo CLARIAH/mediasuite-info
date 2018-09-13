@@ -26,9 +26,9 @@ There are at least two ways to solve it:
 
 2. Second solution
 
-   - Click on the icon below
+   - Click on the icon with the shape of a cookie where you get the message "This page was prevented from setting cookies" (see below):
 
-     ![troubleshooting1_resource_viewer_not_working](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/troubleshooting1_resource_viewer_not_working.jpg?raw=true)
+     ![troubleshooting1_resource_viewer_not_working](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/troubleshooting1_prevented_setting_cookies.jpg?raw=true)
 
    - Go to "Show cookies and other site data"
 
