@@ -11,7 +11,7 @@ Here we list some reported problems by users of the Media Suite, and their solut
 
 This happens if you are logged into the Media Suite and an audio-visual resource from the Sound and Vision collection is supposed to play, i.e., you get a player window, but the resource does not play, i.e., if you get something like this):
 
-![troubleshooting1_prevented_setting_cookies](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/troubleshooting1_prevented_setting_cookies.jpg?raw=true)
+![troubleshooting1_prevented_setting_cookies](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/troubleshooting1_resource_viewer_not_working.jpg?raw=true)
 
 There are at least two ways to solve it:
 
