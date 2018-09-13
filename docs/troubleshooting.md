@@ -13,9 +13,7 @@ This happens if you are logged into the Media Suite and an audio-visual resource
 
 This happens if you get something like this):
 
-
-
-
+![troubleshooting1_prevented_setting_cookies](typora-root-url: ./_images/troubleshooting1_prevented_setting_cookies.jpg)
 
 Ways to solve it:
 
