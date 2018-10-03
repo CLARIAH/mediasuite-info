@@ -2,9 +2,9 @@
 
 [*Dutch text*] "Verteld Verleden brengt (meta)data en spraaktranscripten van tientallen oral history-collecties verspreid over Nederland bij elkaar en maakt deze doorzoekbaar op basis van gedetailleerde zoek- en filteropties. De tool bevordert daarmee de toegankelijkheid en doorzoekbaarheid van deze unieke collecties. Geen inloggegevens vereist."
 
-[Verteld Verleden](http://labs.beeldengeluid.nl/application/693621d8-2a1e-11e5-b980-005056a71e3a) is one of the [[Seed projects]] of the CLARIAH Media Suite. The tool developed in this project ([[Oral history]] is not maintained as such by CLARIAH. Instead, extended collections and functionalities can be used via the Media Suite.
+[Verteld Verleden](http://labs.beeldengeluid.nl/application/693621d8-2a1e-11e5-b980-005056a71e3a) is one of the "seed projects" of the CLARIAH Media Suite (see [FAQ: How is the CLARIAH Media Suite being built?](http://mediasuite.clariah.nl/documentation/faq/how-is-built) The tool was developed in a previous oral history project and is no maintained as such by CLARIAH. Instead, extended collections and functionalities can be used via the Media Suite.
 
-***Extra information**
+**Extra information**
 
 The Oral History project ‘Verteld Verleden’ (Dutch literal translation of Oral History), focuses on improving access to spoken testimonies in collections, spread over many Dutch cultural heritage institutions, by deploying modern technology both concerning infrastructure and access. Key objective in the project is mapping the various specific requirements of collection owners and researchers regarding both publishing and access by means of current state-of-the-technology. In order to demonstrate the potential, Verteld Verleden develops an Oral History portal that provides access to distributed collections. At the same time, practical step-by-step plans are provided to get to work with modern access technologies. In this way, a solid starting point for sustained access to Oral History collections can be established.
 
