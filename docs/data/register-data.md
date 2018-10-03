@@ -3,7 +3,7 @@ Register data
 
 **For curators/data owners**
 
-The current instance of CKAN implemented for the CLARIAH Media Suite includes datasets that we have registered (by harvesting or importing them) on behalf of the collection owners. The Media Suite works as an "aggregator" of collections, which are incorporated in close collaboration with the contributing institutions and scholars. See [[FAQ: How does the Media Suite make the data available?]].
+The current instance of CKAN implemented for the CLARIAH Media Suite includes datasets that we have registered (by harvesting or importing them) on behalf of the collection owners. The Media Suite works as an "aggregator" of collections, which are incorporated in close collaboration with the contributing institutions and scholars. See [FAQ: What kind of data is available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data)
 
 In the near future, more organisations can register their collections and add data themselves. Registration with an open licence is possible, but private access is also possible. The data itself can be added to each registered collection using different formats (e.g., XML, JSON, RDF).
 
@@ -14,4 +14,8 @@ Note: Institutions making available their collections via the Media Suite are re
 
 **For end-users**
 
-Note: Registering your own personal datasets is not supported yet. But you can make your own [[Personal collections]] available in your Workspace.
+Note: Registering your own personal datasets is not supported yet. But you can make your own "[User collections](http://mediasuite.clariah.nl/documentation/workspace/user-collections)" available via your Workspace.
+
+
+
+*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: October 2, 2018)*

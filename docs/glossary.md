@@ -1,12 +1,4 @@
 Glossary
 ---
 
-- Alignment
-- AVResearcher
-- CoMeRDa
-- DIVE
-- JSON
-- Transcription
-- Trove
-- User project
-- Verteld Verleden
+This section includes basic definitions of terms that may be unfamiliar for either developers or scholars.

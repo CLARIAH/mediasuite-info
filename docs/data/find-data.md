@@ -15,4 +15,9 @@ Researchers/end users of the Data services of the CLARIAH Media Suite
 
    **Note**: Please be aware that these tags, organizations and groups refer to the "dataset level", not to the content itself.
 
-3. If you want to search (or view) the content of the datasets, go to the [["Tools"]] section of the Media Suite. You will find a "Collection selector" in each tool, which will give you the list of available/registered collections that you can see in CKAN.
+3. If you want to search (or view) the content of the datasets, go to the [Tools](http://mediasuite.clariah.nl/tools) section of the Media Suite. You will find a "Collection selector" in each tool, which will give you the list of available/registered collections that you can see in CKAN.
+
+
+
+*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: October 2, 2018)*
+
