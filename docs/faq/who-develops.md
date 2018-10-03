@@ -2,23 +2,23 @@
 
 The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/). The Media Suite is developed by The Netherlands Institute for Sound and Vision:
 
-- [Dr. Roeland Ordelman](https://www.beeldengeluid.nl/en/knowledge/experts/roeland-ordelman) (Technical coordinator)
+- [Roeland Ordelman](https://www.beeldengeluid.nl/en/knowledge/experts/roeland-ordelman) (Technical coordinator)
 - [Jaap Blom](https://clariah.nl/en/about/who-is-who/wp5/jaap-blom)
 - [Willem Melder](https://www.beeldengeluid.nl/en/knowledge/experts/willem-melder)
 - [Mari Wigham](https://www.linkedin.com/in/mariwigham) 
 - Johannes Wassenaar
 - Jonathan Blok 
 - Eduardo Navarrete 
-- [Dr. Victor de Boer](http://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)
-- [Dr. Carlos Martínez Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) (collaborating software engineer from the Netherlands EScience Center)
+- [Victor de Boer](http://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)
+- [Carlos Martínez Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) (collaborating software engineer from the Netherlands EScience Center)
 
 The development team works closely with:
 
-- [Dr. Liliana Melgar](https://www.linkedin.com/in/lilimelgar/?locale=en_US) (requirements analyst, researcher and tester)
-- [Dr. Eva Baaren](https://www.linkedin.com/in/baaren/) (liaison digital humanities)
+- [Liliana Melgar](https://www.linkedin.com/in/lilimelgar/?locale=en_US) (requirements analyst, researcher and tester)
+- [Eva Baaren](https://www.linkedin.com/in/baaren/) (liaison digital humanities)
 - Scholars from WP5, lead by[ Professor Julia Noordegraaf](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html) (Jasmijn van Gorp, Thomas Poell, Norah Karrouche, Kaspar von Beelen), and scholars from the [CLARIAH research pilot projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots) provide requirements, design ideas, and help in testing the Media Suite in all its phases.
 - Werner Helmich (developer at Frontwise)
-- From September 2018, [Dr. Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve the "[Resource viewer](http://mediasuite.clariah.nl/documentation/tools/resource-viewer)"
+- From September 2018, [Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve the "[Resource viewer](http://mediasuite.clariah.nl/documentation/tools/resource-viewer)"
 
 The Media Suite is developed in alignment with [CLARIAH WP2](https://clariah.nl/en/work-packages/technology) (the work package responsible for the overall infrastructure coordination).
 
