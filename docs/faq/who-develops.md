@@ -4,9 +4,9 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 
 - [Dr. Roeland Ordelman](https://www.beeldengeluid.nl/en/knowledge/experts/roeland-ordelman) (Technical coordinator)
 - [Jaap Blom](https://clariah.nl/en/about/who-is-who/wp5/jaap-blom)
-
 - [Willem Melder](https://www.beeldengeluid.nl/en/knowledge/experts/willem-melder)
-- [Mari Wigham](https://www.linkedin.com/in/mariwigham) Johannes Wassenaar
+- [Mari Wigham](https://www.linkedin.com/in/mariwigham) 
+- Johannes Wassenaar
 - Jonathan Blok 
 - Eduardo Navarrete 
 - [Dr. Victor de Boer](http://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)

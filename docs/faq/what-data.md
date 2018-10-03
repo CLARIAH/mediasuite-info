@@ -1,20 +1,21 @@
 ## What kind of data is available via the Media Suite?
 
-The Media Suite aggregates metadata from audiovisual collections and related multi-media contextual sources that are maintained at cultural heritage and knowledge institutions in The Netherlands. In Version 3, the Media Suite offers simultaneous (but not integrated) access to 9 collections (grouped by provider). For detailed information about each Collection, see [the Media Suite registration system CKAN](http://mediasuitedata.clariah.nl/), or the [[Data section]] of the Documentation pages.
+The Media Suite aggregates metadata from audiovisual collections and related multi-media contextual sources that are maintained at cultural heritage and knowledge institutions in The Netherlands. In Version 3, the Media Suite offers simultaneous (but not integrated) access to 9 collections (grouped by provider). For detailed information about each Collection, see [the Media Suite registration system CKAN](http://mediasuitedata.clariah.nl/), or the [Data section](http://mediasuite.clariah.nl/documentation/data) of the Documentation pages.
 
  In Version 3, the collections available via the Media Suite include:
 
 **The Netherlands Institute for Sound and Vision**
 
-- The audio-visual collection (most resources can be played via The Media Suite. In Version 3 this requires an additional step (see [FAQ: Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/howto-play-view)).
+- The audio-visual collection. Most resources can be played via The Media Suite (see [FAQ: Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/howto-play-view))
 - The television collection (same as above for access to the resources)
 - The radio collection (same as above for access to the resources)
+- One part of these collections has been enriched via automatic speech recognition (ASR) (see the [automatic enrichments](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments) section)
 
 **The EYE Filmuseum's Jean Desmet collections**
 
 - The film collection (all items, ca. 800 of the Desmet film collection can be played from EYE servers via the Media Suite)
 - The poster collection (most posters of the Desmet poster collection can be viewed from EYE IIIF servers via the Media Suite)
-- The paper (business archive of Jean Desmet) collection (all digitized papers of the Desmet business archive can be viewed from EYE IIIF servers via the Media Suite)
+- The paper (business archive of Jean Desmet) collection (all digitized papers of the Desmet business archive can be viewed from EYE IIIF servers via the Media Suite). Some part of this collection has been enriched with OCR and automatically detected metadata (more information in the CKAN registration system mentioned above)
 
 **DANS (Data Archiving and Networked Services)**
 
