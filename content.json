@@ -16,6 +16,10 @@
         "content": "faq/what-data"
       },
       {
+        "title": "How does the Media Suite make the data available?",
+        "content": "faq/how-data-is-made-available"
+      },
+      {
         "title": "How can I access the Media Suite?",
         "content": "faq/how-to-access"
       },
@@ -38,6 +42,10 @@
       {
         "title": "Where is the Media Suite hosted?",
         "content": "faq/where-is-hosted"
+      },
+      {
+        "title": "What are the CLARIAH research pilot projects?",
+        "content": "faq/what-are-research-pilots"
       }
     ]
   },
@@ -68,28 +76,32 @@
     "content": "tools",
     "children": [
       {
-        "title": "Inspect",
-        "content": "tools/collection-inspector"
+        "title": "Annotate",
+        "content": "tools/annotate"
       },
       {
         "title": "Explore",
         "content": "tools/exploratory-search"
       },
       {
-        "title": "Search",
-        "content": "tools/single-search"
+        "title": "Bookmark",
+        "content": "tools/bookmark"
       },
       {
         "title": "Compare",
         "content": "tools/query-comparison"
       },
       {
-        "title": "View",
-        "content": "tools/resource-viewer"
+        "title": "Inspect",
+        "content": "tools/collection-inspector"
       },
       {
-        "title": "Annotate",
-        "content": "tools/annotate"
+        "title": "Search",
+        "content": "tools/single-search"
+      },
+      {
+        "title": "View",
+        "content": "tools/resource-viewer"
       }
     ]
   },
@@ -201,6 +213,10 @@
         "content": "glossary/alignment"
       },
       {
+        "title": "API",
+        "content": "glossary/api"
+      },
+      {
         "title": "AVResearcher",
         "content": "glossary/avresearcher"
       },
@@ -213,8 +229,16 @@
         "content": "glossary/dive"
       },
       {
+        "title": "Elastic search",
+        "content": "glossary/elastic-search"
+      },
+      {
         "title": "JSON",
         "content": "glossary/json"
+      },
+      {
+        "title": "OAI-PMH",
+        "content": "glossary/oaipmh"
       },
        {
         "title": "Transcription",
