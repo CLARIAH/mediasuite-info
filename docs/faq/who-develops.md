@@ -18,10 +18,14 @@ The development team works closely with:
 
 - [Dr. Eva Baaren](https://www.linkedin.com/in/baaren/) (liaison digital humanities)
 
-- Scholars from WP5, lead by[ Professor Julia Noordegraaf](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html) (Jasmijn van Gorp, Thomas Poell, Norah Karrouche, Kaspar von Beelen), and scholars from the [[CLARIAH research pilot projects]] provide requirements, design ideas, and help in testing the Media Suite in all its phases.
+- Scholars from WP5, lead by[ Professor Julia Noordegraaf](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html) (Jasmijn van Gorp, Thomas Poell, Norah Karrouche, Kaspar von Beelen), and scholars from the [CLARIAH research pilot projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots) provide requirements, design ideas, and help in testing the Media Suite in all its phases.
 - Werner Helmich (developer at Frontwise)
 
 The Media Suite is developed in alignment with [CLARIAH WP2](https://clariah.nl/en/work-packages/technology) (the work package responsible for the overall infrastructure coordination).
 
 > See Also [Wie is Wie / Who is Who in CLARIAH](https://clariah.nl/over/wie-is-wie).
+
+
+
+*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: July 2, 2018)*
 

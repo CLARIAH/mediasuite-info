@@ -8,3 +8,7 @@ The[ CLARIAH Research pilot projects](https://clariah.nl/projecten/research-pilo
 - [MIMEHIST](https://clariah.nl/en/projects/research-pilots/granted-pilot-research-projects/mimehist) ("Annotating EYE’s Jean Desmet Collection", focused on making available the Jean Desmet collection for film historical research)
 - [NarDis](https://clariah.nl/en/projects/research-pilots/granted-pilot-research-projects/nardis) ("Narrativizing Disruption", focused on exploratory search in the context of using linked open data)
 - [Respons](https://clariah.nl/en/projects/research-pilots/granted-pilot-research-projects/respons) ("Remediation in Sports News").
+
+
+
+*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: October 2, 2018)*

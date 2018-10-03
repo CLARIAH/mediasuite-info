@@ -6,7 +6,7 @@ The Media Suite aggregates metadata from audiovisual collections and related mul
 
 **The Netherlands Institute for Sound and Vision**
 
-- The audio-visual collection (most resources can be played via The Media Suite. In Version 3 this requires an additional step -see [[FAQ: Can I play/view all the resources...]] )
+- The audio-visual collection (most resources can be played via The Media Suite. In Version 3 this requires an additional step (see [FAQ: Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/howto-play-view)).
 - The television collection (same as above for access to the resources)
 - The radio collection (same as above for access to the resources)
 
@@ -22,9 +22,13 @@ The Media Suite aggregates metadata from audiovisual collections and related mul
 
 **A collection from the National Library of The Netherlands (KB)**
 
-- The KB's newspaper "basic" collection (all metadata from the [[KB newspapers basic collection]] can be accessed via the Media Suite, the resources themselves, can be viewed/accessed via a re-direct to the KB system [[Delpher]])
+- The KB's newspaper "basic" collection (all metadata from the KB newspapers basic collection (more information via the KB website -"[wat ziet er in Delpher](https://www.delpher.nl/nl/platform/pages/helpitems?nid=385)") can be accessed via the Media Suite, the resources themselves, can be viewed/accessed via a re-direct to the KB search engine Delpher.
 
 **Open Images (Open Beelden) project collections**
 
 - The EYE Open Beelden collection (all metadata and resources from this open access collection can be accessed and played)
+
 - The Sound and Vision Open Beelden collection (all metadata and resources from this open access collection can be accessed and played)
+
+
+*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: October 2, 2018)*

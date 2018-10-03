@@ -1,3 +1,3 @@
 # What is the Media Suite?
 
-The Media Suite is a "virtual research environment" (VRE) within the Dutch infrastructure for the arts and humanities[ (CLARIAH)](https://clariah.nl/), which aims to serve the needs of media scholars, oral historians, and other scholars working with audiovisual data collections and related multimedia contextual sources that are maintained at cultural heritage and knowledge institutions.
+The Media Suite is a research environment for audiovisual data. As part of  the wider [(CLARIAH)](https://clariah.nl/) project, it  helps  media scholars, oral historians, and other researchers to explore, search and annotate  audiovisual data and related collections (e.g. newspapers).

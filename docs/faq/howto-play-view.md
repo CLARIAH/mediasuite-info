@@ -2,8 +2,14 @@
 
 The Media Suite provides access to data from different institutions ([data providers](http://mediasuitedata.clariah.nl/group)), but does not host all the media resources (e.g., videos, images, documents). When you find a resource that is not viewable/playable this may be due to three reasons:
 
-1. The resource may not have been digitised. In these cases, you can consult the metadata, but you cannot view the content. In the [[Search tool]], you will find in these cases an icon with a closed eye, you should consult the metadata in the [[Resource viewer]] to identify if the item is not digitised. A way to solve this is to contact (or visit) the the providing institution.
-2. The resource may be digitized, but not have been made available by the content provider to be played or viewed via the Media Suite. This can happen in the case of privacy or copyright restrictions. In Version 3, this case is most frequent in for the DANS oral history collections. In this case, you will find a closed eye icon next to the resource in your result list.
-3. The resource may have been made available by the content provider, but with certain additional security. In Version 3, this case applies to the collections provided by The Netherlands Institute for Sound and Vision. To play or view their content, you will have to request a VPN connection (use our [[contact information]], which has to be used even after being logged in to the Media Suite.
+1. The resource has not been digitised yet: you can inspect the record’s metadata, but not the actual  content. These cases are marked with a “closed eye” icon in the result list of the [Search tool](http://mediasuite.clariah.nl/documentation/tools/single-search). Please inspect the metadata in the [Resource viewer](http://mediasuite.clariah.nl/documentation/tools/resource-viewer) to find out whether an item has actually been digitised. A way to solve this issue is to contact (or visit) the collection owner.
 
-See more information under the [[FAQ: What kind of data is available via the Media Suite?]].
+2. The resource is digitized, but the content provider prohibited  play-out  via the Media Suite (because, for example, of privacy or copyright restrictions). In Version 3, this scenario mostly applies to the DANS oral history collection. 
+
+3. The resource’s content is  available, but requires additional authentication or access request. In Version 3, this case applies mostly to some collections from DANS.  You can use our [Contact information](http://mediasuite.clariah.nl/contact), or the contact information pages of the data providers if you find issues in viewing the content. Please check before if this is not due to a common technical problem (see the [Troubleshoting section](http://mediasuite.clariah.nl/documentation/troubleshooting)).
+
+   For more information see [FAQ: What kind of data is available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data)
+
+
+
+*(Written by Liliana Melgar, revised by Roeland Ordelman and Kaspar Beelen. Last edit: October 2, 2018)*
