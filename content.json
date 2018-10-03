@@ -80,16 +80,16 @@
         "content": "tools/annotate"
       },
       {
-        "title": "Explore",
-        "content": "tools/exploratory-search"
-      },
-      {
         "title": "Bookmark",
         "content": "tools/bookmark"
       },
       {
         "title": "Compare",
         "content": "tools/query-comparison"
+      },
+      {
+        "title": "Explore",
+        "content": "tools/exploratory-search"
       },
       {
         "title": "Inspect",
