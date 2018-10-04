@@ -4,7 +4,7 @@ This is a tool for the inspection of the metadata types in a collection, as well
 
 ### Background
 
-The "collection inspection" functionalities support the scholarly tasks of \"Data criticism" by facilitating the close inspection of the metadata fields that constitute each collection. 
+The "collection inspection" functionalities support the scholarly tasks of *data criticism* by facilitating the close inspection of the metadata fields that constitute each collection. 
 
 The purpose of this tool is to provide an overview of how a collection/dataset is constituted and also to allow a closer inspection of their metadata (e.g., detect incomplete data, or observe value distributions along date fields). 
 
