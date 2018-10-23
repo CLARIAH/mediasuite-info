@@ -15,32 +15,29 @@ This happens if you are logged into the Media Suite and an audio-visual resource
 
 There are at least two ways to solve it:
 
-1. First solution
+**First solution**
 
-   - In Chrome, go to Settings (using the three dots on the right upper side)
-   - Go to Advanced 
-   - Content settings
-   - Cookies
-   - And deactivate "Block third-party cookies"
-   - Note that this would allow other sites to write cookies.
+- In Chrome, go to Settings (using the three dots on the right upper side)
+- Go to Advanced 
+- Content settings
+- Cookies
+- And deactivate "Block third-party cookies"
+- Note that this would allow other sites to write cookies.
 
-2. Second solution
+**Second solution**
 
-   - Click on the icon with the shape of a cookie where you get the message "This page was prevented from setting cookies" (see below):
+- Click on the icon with the shape of a cookie where you get the message "This page was prevented from setting cookies" (see below):
 
-     ![troubleshooting1_resource_viewer_not_working](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/troubleshooting1_prevented_setting_cookies.jpg?raw=true)
+  ![troubleshooting1_resource_viewer_not_working](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/troubleshooting1_prevented_setting_cookies.jpg?raw=true)
 
-   - Go to "Show cookies and other site data"
+- Go to "Show cookies and other site data"
 
-   - Click on "Blocked"
+- Click on "Blocked"
 
-   - Click on "mediasuite.clariah.nl"
+- Click on "mediasuite.clariah.nl"
 
-   - Click on the "Allow" button below, and "done"
+- Click on the "Allow" button below, and "done"
 
-   - Click on "Reload"
+- Click on "Reload"
 
 Now you should be able to play the audio or video. Otherwise, please [Contact us](http://mediasuite.clariah.nl/contact).
-
-
-
