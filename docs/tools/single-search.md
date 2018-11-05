@@ -3,11 +3,11 @@ Tool: Search
 
 Dedicated tool for searching/exploring through a single collection. 
 
-```
-[![Audi R8](http://img.youtube.com/vi/KOxbO0EI4MA/0.jpg)](https://www.youtube.com/watch?v=KOxbO0EI4MA "Audi R8")
-```
-
 ### How to use
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cA7c53e-MAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 <p>Among other functionalities, it supports:</p>
 <ul>
