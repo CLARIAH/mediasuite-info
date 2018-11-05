@@ -3,9 +3,19 @@ APIs
 
 The foundation of the Media Suite is built on our APIs. They facilitate the interaction with data from various collections:
 
-- Collections API (high-level collection information (metadata: data format, size, etc.)
+- Collections API (high-level collection information (metadata: data format, size, etc.).
 - Search API (searching for collection items).
 - Annotation API (annotating existing data using W3C Web Annotation standard (mainly for manual annotations).
 - Data Enrichment API (collection enrichment through automatic mechanisms or by human interaction).
 
-Note: The APIs can be used with our [Jupyter notebooks](http://mediasuite.clariah.nl/documentation/workspace/jupyter-notebooks) service.
+
+
+<img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/apis.jpg?raw=true" width="700px" />
+
+
+
+(Figure showing the Media Suite APIs, and how they can be used via the Jupyter notebooks).
+
+
+
+*Note*: The APIs can only be used with our [Jupyter notebooks](http://mediasuite.clariah.nl/documentation/workspace/jupyter-notebooks) service at this moment. Please use our [Contact](http://mediasuite.clariah.nl/contact) options for more information.
