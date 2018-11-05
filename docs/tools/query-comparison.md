@@ -3,6 +3,10 @@ Tool: Compare
 
 This tool facilitates comparative (re)search based on multiple queries on the same or different collections. The tool that inspired the creation of the "Comparative" functionality currently available in the Media Suite is [AVResearcherXL](http://mediasuite.clariah.nl/documentation/glossary/avresearcher). 
 
+### Data
+
+This tool uses all the data and enrichments available via the Media Suite. See [Data page](http://mediasuite.clariah.nl/data) for more information.
+
 ### How to use
 
 There are two possible cases:
