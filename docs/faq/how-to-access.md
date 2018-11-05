@@ -16,6 +16,10 @@ To log in via SURFConext, please follow these steps:
 6. You will arrive at the CLARIAH [Media Suite workspace](http://mediasuite.clariah.nl/documentation/workspace)
 
 > See at our CLARIAH YouTube channel the [Screencast: How to log in to the Media Suite](https://www.youtube.com/watch?v=2z0xUblnZwo&index=1&list=PLM8OWdLwjOmcOOikb_vCgB3ouY98PKvge)
+>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/2z0xUblnZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+>
+>
 
 Limited access to the Media Suite can occur when:
 
