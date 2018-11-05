@@ -61,6 +61,8 @@ Among other functionalities, it supports:
       *   Media type: there are icons on the right side of each item indicating whether it is of the type image, audio, video, or text
       *   Access: if you can "view", "play", "read" a document, you will see an icon with an open eye on the right side of the item
 
+* Save the query paramenters: the Search tool allows users to store the queries for further use giving them a name. See [Saved queries](http://mediasuite.clariah.nl/documentation/workspace/user-projects/queries) section for more details.
+
 * Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](http://mediasuite.clariah.nl/documentation/workspace/user-projects/bookmarks) in the Documentation.
 
   	<iframe width="560" height="315" src="https://www.youtube.com/embed/2fVNz6eh6Sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
