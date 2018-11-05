@@ -10,4 +10,5 @@ There are four notebooks available, in which we included common functions and co
 - To inspect the availability of [ASR](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments) data using different variables (program name, genre, etc.)
 - A workspace notebook prepared for working with data fetched from the collections' metadata and ASR based on bookmarks and annotations added by the users to their workspace.
 
-In its first phase, launched in Version 3, the notebooks are offered in an authenticated environment to the team members of the CLARIAH media studies package. Please use our [contact details](http://mediasuite.clariah.nl/contact) if you need more information.
+In its first phase of the Jupyter Notebooks service (launched with Version 3 in July, 2018), the notebooks are offered in an authenticated environment. Please use our [contact details](http://mediasuite.clariah.nl/contact) if you need more information.
+
