@@ -14,4 +14,5 @@ The Media Suite offers integrated tools for supporting scholarly work with archi
 - In the Explore and Search tools users can bookmark and annotate their personal corpora. These user-generated data and the users' personal collections are available in the **Workspace**.
 
 
- *(Last update: November 5, 2018)*
+
+*(Last update: November 5, 2018)*
