@@ -21,3 +21,7 @@ There are two possible cases:
    - You will be prompted to the Search tool 
    - There you can "Save a query" in a user project
    - Then you are ready to use the Compare tool
+
+
+
+*(Last update: November 5, 2018)*
