@@ -15,6 +15,3 @@ The Media Suite offers integrated tools for supporting scholarly work with archi
 
 
  *(Last update: November 5, 2018)*
-
-
-
