@@ -16,6 +16,21 @@ The query parameters stored are the following:
 ### How to use
 
 - Select your User project
+
 - Use the "Save query" button in the Search tool 
+
+  <img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/saved_queries_button.png?raw=true" width="600px" />
+
 - You will be asked to store the query assigning it a name
 
+<img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/saved_queries_dialogbox.png?raw=true" width="600px" />
+
+- You can find your stored query in the Workspace (going to the User project that you selected in the first step)
+
+<img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/saved_queries.jpg?raw=true" width="600px" />
+
+You can then either copy the parameters (e.g., to use it in a publication in which you would like to explain which query you used to get the data), or select the saved queries that you would like to compare (see how to use the [Compare tool](http://mediasuite-test.rdlabs.beeldengeluid.nl/documentation/tools/query-comparison)).
+
+
+
+*(Last update: November 5, 2018)*
