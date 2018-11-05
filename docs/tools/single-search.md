@@ -3,6 +3,10 @@ Tool: Search
 
 Dedicated tool for searching/exploring through a single collection. 
 
+### Data
+
+This tool uses all the data and enrichments available via the Media Suite. See [Data page](http://mediasuite.clariah.nl/data) for more information.
+
 ### How to use
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cA7c53e-MAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
