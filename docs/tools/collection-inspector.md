@@ -12,6 +12,10 @@ It is important to have clear that the collection inspector does not give search
 
 ### How to use
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NSAHVlqhesw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 1. When you open the Inspect tool you will find a button to add a Collection. This opens the "Collection selector," where you can see the available collections (see [FAQ section: What kind of data is available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data))
 2. When you select a collection, you can inspect its metadata fields by clicking on "Select field to analyse"
 3. In this graphic you can see the completeness of ONE metadata field over time. The timeline chart uses a date field selected by the user. Be aware that these date fields are also metadata, and that they can also be more or less complete. You can evaluate the completeness of a date field as well, using the first option in Step 1.
