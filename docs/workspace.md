@@ -5,7 +5,7 @@ The Workspace is an experimental enviroment for users of the Media Suite to work
 
 
 
-![workspace](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/workspace.jpg?raw=true)
+ <img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/workspace.jpg?raw=true" width="800px" />
 
 
 
