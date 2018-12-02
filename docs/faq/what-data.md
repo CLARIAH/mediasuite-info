@@ -1,4 +1,4 @@
-## What kind of data is available via the Media Suite?
+## What collections/data are available via the Media Suite?
 
 The Media Suite aggregates metadata from audiovisual collections and related multi-media contextual sources that are maintained at cultural heritage and knowledge institutions in The Netherlands. In Version 3, the Media Suite offers simultaneous (but not integrated) access to 9 collections (grouped by provider). For detailed information about each Collection, see [the Media Suite registration system CKAN](http://mediasuitedata.clariah.nl/), or the [Data section](http://mediasuite.clariah.nl/documentation/data) of the Documentation pages.
 
