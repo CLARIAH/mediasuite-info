@@ -50,6 +50,18 @@
     ]
   },
   {
+        "title": "Quick start guide",
+        "content": "quick-start-guide"
+        },
+  {
+        "title": "Screencasts",
+        "content": "screencasts"
+        },
+        {
+        "title": "Forum",
+        "content": "forum"
+        },
+  {
     "title": "Data",
     "content": "data",
     "children": [
@@ -194,6 +206,10 @@
     }
     ]
     },
+    {
+        "title": "Research projects",
+        "content": "research-projects"
+        },
   {
     "title": "Development challenges",
     "content": "development-challenges",
