@@ -5,7 +5,7 @@ The Media Suite has been used in "real" research settings, mostly in the context
 
 Here you can see summaries of those research projects, and be inspired by all the potential that the Media Suite's data and tools offer to researchers from different disciplines.
 
-> **Would you like to share your research project using the CLARIAH Media Suite? Please suggest it in our [Public forum](https://gitter.im/CLARIAH-media-studies/Lobby)..**
+> **Would you like to share your research project using the CLARIAH Media Suite? Please suggest it in our [Public forum](https://gitter.im/CLARIAH-media-studies/Lobby).**
 
 
 
