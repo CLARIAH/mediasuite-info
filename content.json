@@ -54,6 +54,10 @@
         "content": "quick-start-guide"
         },
   {
+        "title": "Research projects",
+        "content": "research-projects"
+        },
+  {
         "title": "Screencasts",
         "content": "screencasts"
         },
@@ -206,10 +210,6 @@
     }
     ]
     },
-    {
-        "title": "Research projects",
-        "content": "research-projects"
-        },
   {
     "title": "Development challenges",
     "content": "development-challenges",
