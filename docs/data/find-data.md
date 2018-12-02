@@ -19,5 +19,5 @@ Researchers/end users of the Data services of the CLARIAH Media Suite
 
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: October 2, 2018)*
+​																	*(Last update: October 2, 2018)*
 

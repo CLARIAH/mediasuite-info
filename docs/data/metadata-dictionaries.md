@@ -10,4 +10,4 @@ The CLARIAH WP5 team encourages other providing institutions to create and publi
 
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: October 2, 2018)*
+​																	*(Last update: October 2, 2018)*

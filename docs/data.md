@@ -1,8 +1,16 @@
 Data
 ---
 
-The Media Suite offers access to data (metadata and, in most cases, to the content itself) of important audio-visual heritage and related contextual collections held by cultural institutions in The Netherlands. These collections are registered in one instance of a web-based open source management system called CKAN (see http://mediasuitedata.clariah.nl/). See more information at:
+Read more about the How-Tos of the Media Suite's data in our [data documentation pages](http://mediasuite.clariah.nl/documentation/data), where you will find information about:
 
-- [FAQ: What kind of data is available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data) 
-- Data: [automatic enrichments section](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments): for information about the automatic speech recognition (ASR) transcripts.
+- [How to find data/collections](http://mediasuite.clariah.nl/documentation/data/find-data)
+- [How to search and explore the data/collections](http://mediasuite.clariah.nl/documentation/tools)
+- [How to use the metadata dictionaries](http://mediasuite.clariah.nl/documentation/data/metadata-dictionaries)
+- [How to use the automatic enrichments](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments) (from version 3: automatic speech recognition (ASR) transcripts)
+
+See also the most frequently asked questions:
+
+- [What kind of data is available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data) 
+- [How does the Media Suite make the data available?](http://mediasuite.clariah.nl/documentation/faq/how-data-is-made-available)
+- [Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/howto-play-view)
 
