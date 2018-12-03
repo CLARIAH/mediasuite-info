@@ -9,7 +9,11 @@ Here you can see summaries of those research projects, and be inspired by all th
 
 
 
-- Silencing refugees? An exploration of the depiction of refugee crises in Dutch media through the “digital research infrastructure” lens
+- [Silencing refugees? An exploration of the depiction of refugee crises in Dutch media through the “digital research infrastructure” lens](http://mediasuite.clariah.nl/documentation/research-projects/summer-school-refugee-crisis)
+
+
+
+Forthcoming:
 
 - The Platformization of Public Service Broadcasting
 
