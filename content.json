@@ -54,9 +54,15 @@
         "content": "quick-start-guide"
         },
   {
-        "title": "Research projects",
-        "content": "research-projects"
-        },
+    "title": "Research projects",
+    "content": "research-projects",
+    "children": [
+      {
+        "title": "Silencing refugees? The depiction of refugee crises in Dutch media",
+        "content": "research-projects/summer-school-refugee-crisis"
+      }
+    ]
+},
   {
         "title": "Screencasts",
         "content": "screencasts"
