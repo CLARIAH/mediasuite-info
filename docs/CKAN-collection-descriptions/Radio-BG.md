@@ -1,50 +1,60 @@
-This is the Jean Desmet Film collection of The EYE Film Institute in The Netherlands (EYE), one of the most important Dutch audiovisual archives, which preserves and presents both Dutch and foreign films screened in the Netherlands. 
-
-The Jean Desmet collection "consists mainly of an exceptional group of films, company documents, posters and film stills from the 1910s. The collection contains a large number of unique film prints including many masterpieces that were formerly presumed lost. It also exceeds the boundaries of film history and has great value for the socio-historical description and appreciation of one of the most important decades in modern history as it reflects cinematographic changes and many stories about the 1910s that still need to be unveiled" ([UNESCO](http://www.unesco.org/new/en/communication-and-information/memory-of-the-world/register/full-list-of-registered-heritage/registered-heritage-page-2/desmet-collection/)). It was added to UNESCO's Memory of the World Register in 2011 because of its special historical value.
+This is the radio collection of The Netherlands Institute for Sound and Vision (NISV), one of the most important Dutch audiovisual archives, which collects, looks after, and provides access to over 70% of the Dutch audio-visual heritage. 
 
 The following figures give answers to common questions about the composition of this collection:
 
 ### What part of the collection is included in the Media Suite?
 
-It is important to take into account that it is not possible to know how big the collection actually is (*) but, Via the Media Suite, EYE offers access to its **entire Jean Desmet Film collection** as held in their archive, consisting of 1129 films (as July, 2018).
-
-(*) "although the collection seems to be a finite entity, it also keeps growing (923 and counting)*. It's hard to tell how many films would make the collection 'complete': it is difficult to establish which films exactly had been distributed by [Jean Desmet](https://www.eyefilm.nl/en/collection/selection/collection-dossiers/the-desmet-dossier/legacy) and thus which ones we are still missing" ([EYE collection blog](https://www.eyefilm.nl/collectie/collectieblog?f%5B0%5D=field_blog_tag%3A7001)).
+Via the Media Suite, The Netherlands Institute for Sound and Vision offers access to its **entire radio collection**, consisting of 405 526 items (as July, 2018).
 
 ### **What years does the archive cover?**
 
-The EYE Jean Desmet Film collection includes films between 1906 and 1919. 
+The radio collection is one of the oldest collections of Sound and Vision. The NISV radio collection includes items from 1877 to present. Unfortunately, the first broadcast of the Hilversumsche Draadlooze Omroep (HDO) from 1923 does not exist because equipment for recording the live broadcasts simply did not exist.
 
+<div>[![items-over-time](https://plot.ly/~mwigham/157.png?share_key=e8ewuOfbNMhZHYrLClnDNr)](https://plot.ly/~mwigham/157/?share_key=e8ewuOfbNMhZHYrLClnDNr "items-over-time") </div>
 
+*Figure 1: Number of programs in the archive over time*
 
-*Figure 1: Number of films in the collection over time*
+### How often is the data updated in the Media Suite?
 
-### How and how often is the data updated in the Media Suite?
+The latest update to the Media Suite's data from NISV has been done in July, 2018. Due to internal work on the new archive's media management system (DAAN), the new updates will become daily again from 2019.
 
-The collection's metadata is made available via the Media Suite by EYE via an export (dump) from the EYE catalogue.
+### **What kind of media is included?**
 
-The latest update to the Media Suite's data from EYE Jean Desmet film collection has been done in July, 2018. 
+Since this is the radio collection, most items are audio resources of the following genres: 
 
-### *What kind of media is included?*
+<div>[![radio-series-genre-dist](https://plot.ly/~mwigham/365.png?share_key=Fxw577O7LVM5YxXh3WZVXQ)](https://plot.ly/~mwigham/365/?share_key=Fxw577O7LVM5YxXh3WZVXQ "radio-series-genre-dist") </div>
 
-
-
-*Figure 2: Genres?*
+*Figure 2: Distribution of programmers over genres*
 
 ### **What portion of the collection is digital?**
 
-A big part of the Jean Desmet film collection has been digitized. The digital films can be accessed directly at EYE's player system via the Media Suite.
-
-
+<div>[![radio-digital-over-time](https://plot.ly/~mwigham/377.png?share_key=98fnIRJSNLwBcvayRA1kdz)](https://plot.ly/~mwigham/377/?share_key=98fnIRJSNLwBcvayRA1kdz "radio-digital-over-time") </div>
 
 *Figure 3: Percentage of material that is digital over time*
 
 ### **Does the collection include enrichments?**
 
-This collection does not include any enrichments at this moment.
+Progressively, the NISV audiovisual collection is being enriched with automatic speech recognition (ASR) transcripts. ASR enrichments are available for the following items:
+
+- Radio 1 (Hilversum 1, Radio 1, NPO Radio 1)
+- Radio 5 (Hilversum 5, Radio 747, 747 AM, Radio 5, NPO Radio 5, NPO Radio 5 Nostalgia)
+- Source catalogs (items from the Radio Programma, Weken Nederlandse Radio, and Hoorspelen collections)
+- Television (news and current affairs)
+
+The process is still ongoing.  This is the status on November 2018 for the radio collection: 
+
+<div>[![radio-asr-over-time](https://plot.ly/~mwigham/379.png?share_key=XbIpLnYcpLwYGcPSXGKUXv)](https://plot.ly/~mwigham/379/?share_key=XbIpLnYcpLwYGcPSXGKUXv "radio-asr-over-time") </div>
+
+*Figure 4. ASR availability over time (This graph shows the number of programmes with a speech recognition 
+transcript available per year (green). The yellow bars are the audio-visual programmes that are waiting for ASR, the red bars the audio-visual programmes that cannot currently be processed with speech 
+recognition, as they have no copy in the media archive.)*
 
 ### **Where to find more information**?
 
-- For more background information about the Jean Desmet collection, visit the [EYE's Jean Desmet collection description](https://www.eyefilm.nl/en/collection/selection/collection-dossiers/the-desmet-dossier/legacy).
+- For more background information about the NISV collection, visit the [NISV collection page](https://www.beeldengeluid.nl/collectie).
+- For more information about the composition of this collection, and live updates about the ASR processing, visit the [Google site pages maintained by NISV](https://sites.google.com/beeldengeluid.nl/stats-beeldengeluid-nl/step-back-in-time/time-travel?authuser=1).
+  -More information about the ASR enrichments can be found in the [Media Suite documentation](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments).
+- For more information about the metadata of this collection, and the availability of the automatic enrichments use the [Media Suite’s Inspect tool](http://mediasuite.clariah.nl/tool/collection-inspector).
 
 ### **How to search in this collection?**
 
