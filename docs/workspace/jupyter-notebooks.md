@@ -12,3 +12,5 @@ There are four notebooks available, in which we included common functions and co
 
 In its first phase of the Jupyter Notebooks service (launched with Version 3 in July, 2018), the notebooks are offered in an authenticated environment. Please use our [contact details](http://mediasuite.clariah.nl/contact) if you need more information.
 
+Besides, we produce ***Collection notebooks*** to create overviews of the Media Suite's collections composition. We use some of the visualizations produced with these notebooks to update our Collection pages in the [Data registry CKAN](http://mediasuitedata.clariah.nl/). More complete documentation of the Collection notebooks can be found in the [Github repository wiki](https://github.com/beeldengeluid/labs-search-api/wiki/Collection-Notebooks).
+
