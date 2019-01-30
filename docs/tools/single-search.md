@@ -3,7 +3,7 @@ Tool: Search
 
 Dedicated tool for searching/exploring through a single collection. In this help menu you will learn:
 
-- [Data][]
+- [Link text](#some-id)
 - How to use this tool?
 - The search box and allowed search expressions 
   - Boolean operators
@@ -17,6 +17,8 @@ Dedicated tool for searching/exploring through a single collection. In this help
 - Bookmarking search results
 
 ---
+
+# <a name="some-id"></a> DETAIL SECTION
 
 ### Data
 
