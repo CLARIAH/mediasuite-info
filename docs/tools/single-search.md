@@ -1,7 +1,22 @@
 Tool: Search
 ---
 
-Dedicated tool for searching/exploring through a single collection. 
+Dedicated tool for searching/exploring through a single collection. In this help menu you will learn:
+
+- [Data][]
+- How to use this tool?
+- The search box and allowed search expressions 
+  - Boolean operators
+  - Advanced queries: Syntax to query specific fields
+- The field cluster selector (how to search in specific fields)
+- The date filter (how to generate time line charts)
+- Time line charts (how to use them and interpret them)
+- The facet selector (include and exclude facets; create new facets)
+- The search result list (ranking, ordering options, moving across results)
+- Saving your query
+- Bookmarking search results
+
+---
 
 ### Data
 
