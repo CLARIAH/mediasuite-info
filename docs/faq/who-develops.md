@@ -16,14 +16,19 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 - Jonathan Blok 
 - Eduardo Navarrete 
 
-**Requirement analysts and dissemination**
+**Requirement analysts, documentation and dissemination**
 
 - [Liliana Melgar](https://www.linkedin.com/in/lilimelgar/?locale=en_US) (requirements analyst, researcher and tester)
 - [Eva Baaren](https://www.linkedin.com/in/baaren/) (liaison digital humanities, 2016-2018)
+- Tom Slootweg (2018-)
+- Iris van Vliet (2018)
+- Rosita Kiewik (2017)
 
-**Development collaborators and researchers**
+**Development researchers and collaborators**
 
 - [Victor de Boer](http://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)
+- Oana Inel (2017-2018)
+- Lora Aroyo (2016-2018)
 - [Carlos Martínez Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) (collaborating software engineer from the Netherlands EScience Center, 2016-2018)
 - Werner Helmich (developer at Frontwise, 2017)
 - From September 2018 to February 2019, [Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve the "[Resource viewer](http://mediasuite.clariah.nl/documentation/tools/resource-viewer)"
