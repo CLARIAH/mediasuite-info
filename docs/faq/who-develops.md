@@ -42,13 +42,15 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 - Norah Karrouche
 - Kaspar von Beelen (2016-2018)
 - Bernhard Rieder 
-- Scholars from the [CLARIAH research pilot projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots)
-  - [CrossEWT project](https://clariah.nl/projecten/research-pilots/crossewt): Susan Hoogervorst
-  - [Dream project](https://clariah.nl/projecten/research-pilots/dream): Toine Peters and Berrie van der Molen
-  - [M&M project](https://clariah.nl/projecten/research-pilots/m-m): Susan Aasman, Tom Slootweg, Rob Wegter, Vincent Ros
-  - [MIMEHIST project](https://clariah.nl/projecten/research-pilots/mimehist): Christian Olesen, Kathleen Lodze
-  - [NarDis project](https://clariah.nl/projecten/research-pilots/nardis): Sabrina Sauer, Berber Hagedoorn
-  - [ReSpoNs project](https://clariah.nl/projecten/research-pilots/respons): Marcel Broersma, Frank Harbers, Mark Vallinga
+
+**Scholars from the [CLARIAH research pilot projects**](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots)
+
+- [CrossEWT project](https://clariah.nl/projecten/research-pilots/crossewt): Susan Hoogervorst
+- [Dream project](https://clariah.nl/projecten/research-pilots/dream): Toine Peters and Berrie van der Molen
+- [M&M project](https://clariah.nl/projecten/research-pilots/m-m): Susan Aasman, Tom Slootweg, Rob Wegter, Vincent Ros
+- [MIMEHIST project](https://clariah.nl/projecten/research-pilots/mimehist): Christian Olesen, Kathleen Lodze
+- [NarDis project](https://clariah.nl/projecten/research-pilots/nardis): Sabrina Sauer, Berber Hagedoorn
+- [ReSpoNs project](https://clariah.nl/projecten/research-pilots/respons): Marcel Broersma, Frank Harbers, Mark Vallinga
 
 
 
