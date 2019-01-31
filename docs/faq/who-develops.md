@@ -40,7 +40,7 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 - Jasmijn van Gorp
 - Thomas Poell
 - Norah Karrouche
-- Kaspar von Beelen (2016-2018)
+- Kaspar von Beelen
 - Bernhard Rieder 
 
 **Scholars from the [CLARIAH research pilot projects**](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots)
