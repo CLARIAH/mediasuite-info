@@ -1,30 +1,55 @@
 ## Who develops the Media Suite?
 
-The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/). The Media Suite is developed by The Netherlands Institute for Sound and Vision:
+The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/). The Media Suite is developed by The Netherlands Institute for Sound and Vision (NISV), which is one of the CLARIAH data centra.
 
-- [Roeland Ordelman](https://www.beeldengeluid.nl/en/knowledge/experts/roeland-ordelman) (Technical coordinator)
+**Coordination**
+
+- Work package/research coordination: Julia Noordegraaf ([J.J.Noordegraaf@uva.nl](mailto:J.J.Noordegraaf@uva.nl))
+- Technical coordination, Netherlands Institute for Sound and Vision: Roeland Ordelman ([rordelman@beeldengeluid.nl](mailto:rordelman@beeldengeluid.nl))
+
+**Development team at NISV**
+
 - [Jaap Blom](https://clariah.nl/en/about/who-is-who/wp5/jaap-blom)
 - [Willem Melder](https://www.beeldengeluid.nl/en/knowledge/experts/willem-melder)
 - [Mari Wigham](https://www.linkedin.com/in/mariwigham) 
 - Johannes Wassenaar
 - Jonathan Blok 
 - Eduardo Navarrete 
-- [Victor de Boer](http://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)
-- [Carlos Martínez Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) (collaborating software engineer from the Netherlands EScience Center)
 
-The development team works closely with:
+**Requirement analysts and dissemination**
 
 - [Liliana Melgar](https://www.linkedin.com/in/lilimelgar/?locale=en_US) (requirements analyst, researcher and tester)
-- [Eva Baaren](https://www.linkedin.com/in/baaren/) (liaison digital humanities)
-- Scholars from WP5, lead by[ Professor Julia Noordegraaf](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html) (Jasmijn van Gorp, Thomas Poell, Norah Karrouche, Kaspar von Beelen), and scholars from the [CLARIAH research pilot projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots) provide requirements, design ideas, and help in testing the Media Suite in all its phases.
-- Werner Helmich (developer at Frontwise)
-- From September 2018, [Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve the "[Resource viewer](http://mediasuite.clariah.nl/documentation/tools/resource-viewer)"
+- [Eva Baaren](https://www.linkedin.com/in/baaren/) (liaison digital humanities, 2016-2018)
 
-The Media Suite is developed in alignment with [CLARIAH WP2](https://clariah.nl/en/work-packages/technology) (the work package responsible for the overall infrastructure coordination).
+**Development collaborators and researchers**
+
+- [Victor de Boer](http://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)
+- [Carlos Martínez Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz) (collaborating software engineer from the Netherlands EScience Center, 2016-2018)
+- Werner Helmich (developer at Frontwise, 2017)
+- From September 2018 to February 2019, [Hugo Huurdeman](https://www.timelessfuture.com/) works on a project to improve the "[Resource viewer](http://mediasuite.clariah.nl/documentation/tools/resource-viewer)"
+- The Media Suite is developed in alignment with [CLARIAH WP2](https://clariah.nl/en/work-packages/technology) (the work package responsible for the overall infrastructure coordination)
+
+**Scholars involved**
+
+- [Professor Julia Noordegraaf](http://www.uva.nl/profiel/n/o/j.j.noordegraaf/j.j.noordegraaf.html)
+- Jasmijn van Gorp
+- Thomas Poell
+- Norah Karrouche
+- Kaspar von Beelen (2016-2018)
+- Bernhard Rieder 
+- Scholars from the [CLARIAH research pilot projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots)
+  - [CrossEWT project](https://clariah.nl/projecten/research-pilots/crossewt): Susan Hoogervorst
+  - [Dream project](https://clariah.nl/projecten/research-pilots/dream): Toine Peters and Berrie van der Molen
+  - [M&M project](https://clariah.nl/projecten/research-pilots/m-m): Susan Aasman, Tom Slootweg, Rob Wegter, Vincent Ros
+  - [MIMEHIST project](https://clariah.nl/projecten/research-pilots/mimehist): Christian Olesen, Kathleen Lodze
+  - [NarDis project](https://clariah.nl/projecten/research-pilots/nardis): Sabrina Sauer, Berber Hagedoorn
+  - [ReSpoNs project](https://clariah.nl/projecten/research-pilots/respons): Marcel Broersma, Frank Harbers, Mark Vallinga
+
+
 
 > See Also [Wie is Wie / Who is Who in CLARIAH](https://clariah.nl/over/wie-is-wie).
 
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: July 2, 2018)*
+*(Last edit: January 31, 2019)*
 
