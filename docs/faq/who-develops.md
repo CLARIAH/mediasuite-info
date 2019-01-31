@@ -26,6 +26,7 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 
 **Development researchers and collaborators**
 
+- [Marijn Koolen](http://marijnkoolen.com/) (part of the development team between 2016-2017, currently developing together with NISV a [scholarly web annotation client](https://clariah.github.io/scholarly-web-annotation-client/) and leading the initiative for scholarly annotations interoperability)
 - [Victor de Boer](http://www.victordeboer.com/) (linked data senior researcher at VU and coordinator of linked data work in WP5)
 - Oana Inel (2017-2018)
 - Lora Aroyo (2016-2018)
