@@ -8,7 +8,7 @@ The Media Suite gives access to the KB's newspaper "basic collection". "The basi
 
 ### **What years does the archive cover?**
 
-The KB newspaper basic collection includes newspapers from 1618 to 1995.
+The KB newspaper basic collection includes newspapers from 1618 to 1995. The Media Suite harvested all the items available and integrated them into the Media Suite in May 2018.
 
 <div>[![articles-over-time](https://plot.ly/~mwigham/355.png?share_key=9jKtPcxQN2JYNvMGE9UQho)](https://plot.ly/~mwigham/355/?share_key=9jKtPcxQN2JYNvMGE9UQho "articles-over-time") </div>
 
@@ -18,7 +18,7 @@ The KB newspaper basic collection includes newspapers from 1618 to 1995.
 
 The collection's metadata and their OCR enrichments are made available to the CLARIAH Media Suite by the KB via their harvesting end-point (OAI-PMH).
 
-The latest update to the Media Suite's data from EYE Jean Desmet film collection has been done in July, 2018. 
+The latest update to the Media Suite's data from EYE Jean Desmet film collection has been done in May, 2018.
 
 ### What kind of media is included?
 
