@@ -49,8 +49,8 @@ recognition, as they have no copy in the media archive.)*
 
 ### **Where to find more information**?
 
-- For more background information about the NISV collection, visit the [NISV collection page](https://www.beeldengeluid.nl/collectie).
-- For more information about the composition of this collection, and live updates about the ASR processing, visit the [Google site pages maintained by NISV](https://sites.google.com/beeldengeluid.nl/stats-beeldengeluid-nl/step-back-in-time/time-travel?authuser=1).
+- For more background information about the NISV collection, visit the [NISV collection page](https://www.beeldengeluid.nl/collectie). See also the pages of the: [NISV audiovisual collection](http://mediasuitedata.clariah.nl/dataset/nisv-catalogue), and [NISV radio collection](http://mediasuitedata.clariah.nl/dataset/nisv-catalogue-radio).
+- For more information about the composition of this collection, and live updates about the ASR processing, visit the [Collection statistics site maintained by NISV](https://archiefstats.beeldengeluid.nl/).
   -More information about the ASR enrichments can be found in the [Media Suite documentation](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments).
 - For more information about the metadata of this collection, and the availability of the automatic enrichments use the [Media Suite’s Inspect tool](http://mediasuite.clariah.nl/tool/collection-inspector).
 
