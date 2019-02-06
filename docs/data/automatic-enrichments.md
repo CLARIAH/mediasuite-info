@@ -8,7 +8,7 @@ ASR is a process applied to recorded, digitized audio materials to convert the a
 
 From Version 3 (launched in July 2018), the textual outputs are made available for search and interactive navigation of the audio (radio and television) resources.
 
-> **The Most complete, up-to date automatic speech recognition reports (and other statistics of the NISV collections) are available in [this website](https://archiefstats.beeldengeluid.nl/speech-recognition).**
+> **The Most complete, up-to date automatic speech recognition reports (and other statistics of the NISV collections) are available at the <a href="https://archiefstats.beeldengeluid.nl/speech-recognition" target="_blank">NISV collection statistics website</a>.**
 
 Here you will find **dynamic and updated reports** of the progress of ASR as it is being processed (e.g., as in the screenshot below). The numbers correspond to the entire collection of NISV, showing the amount of digitized items with a carrier and, from those, the amount of items that have ASR.
 
