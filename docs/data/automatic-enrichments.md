@@ -14,7 +14,17 @@ Here you will find **dynamic and updated reports** of the progress of ASR as it 
 
 <img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/asr_page_screenshot.jpg?raw=true" width="600px" />
 
-Other sources of information about ASR processing:
+**Note**:
+
+- At this moment, the timeline charts start in year zero. This will be fixed during spring 2019.
+- If you would like to use these graphs for a publication, you can use the [direct link to the graph](https://plot.ly/~mwigham/137/asr-availability-for-tv-news-and-current-affairs-per-year/), zoom in to the timeline, and use the camera icon above the graph to download the result. Please don't forget to cite the chart properly by including:
+  - Description of the image or title of the image (as it appears in each graphic's caption, or adding more detail if necessary to interpret the graphic)
+  - Publisher: The Netherlands Institute for Sound and Vision
+  - Editor: Mari Wigham and Willem Melder
+  - Edition or version (charts in this website are updated automatically, thus, the date of update is the same as the date of download/copy)
+  - Access information (Website's URL and/or graphic URL)
+
+**Other sources of information about ASR processing**:
 
 - Overview: in the release notes, per version, see [Release notes Version 3](http://mediasuite.clariah.nl/documentation/release-notes/v3). 
 - In the [Collection Inspector tool](http://mediasuite.clariah.nl/tool/collection-inspector), adding the Audio-visual collection of Sound and Vision, and inspecting the fields with the label ASR (use the search box).
