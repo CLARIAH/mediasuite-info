@@ -10,7 +10,7 @@ The transparent search and analysis tools that the Media Suite offers, combined 
 
 The Media Suite is in a constant process of co-development with its users and, in that sense, it is not a “finished” environment. We regularly publish about this process and other aspects of the CLARIAH infrastructure and its Media Suite. 
 
-> **[Here you can find the publications](https://www.zotero.org/groups/2256042/clariah_media_suite_publications) related to the co-development of the Media Suite.**
+> **[Here you can find the publications](https://www.zotero.org/groups/2288915/clariah_media_suite_research_and_dissemination_outputs) related to the co-development of the Media Suite.**
 
 
 
