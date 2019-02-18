@@ -33,15 +33,15 @@ This tool uses all the data and enrichments available via the Media Suite. See [
 
 - At this moment (version 4) the search API detects when a user does a boolean/wildcard query by looking for the keywords: 
 
-  **OR**, no need to type this operator explicitly since it is the default operator
+  ​	**OR**, no need to type this operator explicitly since it is the default operator
 
-  **NOT** 
+  ​	**NOT** 
 
-  **AND** 
+  ​	**AND** 
 
-  ***** (wildcard which matches any character sequence (including the empty one). Keep in mind to leave a space between the last character and the asterisk wildcard)
+  ​	***** (wildcard which matches any character sequence (including the empty one). Keep in mind to 	      	leave a space between the last character and the asterisk wildcard)
 
-  **?** (wildcard which matches any single character, e.g., if you search for <u>migra?t</u>, you will find matches with terms such as: <u>migranten</u>, <u>migrantenvoorganger</u>, among others)
+  ​	**?** (wildcard which matches any single character, e.g., if you search for <u>migra?t</u>, you will find matches 	with terms such as: <u>migranten</u>, <u>migrantenvoorganger</u>, among others)
 
 *   Boolean queries are case-sensitive
 
