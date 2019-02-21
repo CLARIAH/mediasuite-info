@@ -89,7 +89,13 @@
       },
       {
         "title": "Automatic enrichments",
-        "content": "data/automatic-enrichments"
+        "content": "data/automatic-enrichments",
+        "children": [
+          {
+        "title": "Search",
+        "content": "data/single-search"
+      }
+        ]
       }
     ]
 },
@@ -116,10 +122,6 @@
       {
         "title": "Inspect",
         "content": "tools/collection-inspector"
-      },
-      {
-        "title": "Search",
-        "content": "tools/single-search"
       },
       {
         "title": "View",
