@@ -93,6 +93,10 @@
       }
     ]
 },
+{
+        "title": "Search",
+        "content": "tools/single-search"
+      },
   {
     "title": "Tools",
     "content": "tools",
@@ -116,10 +120,6 @@
       {
         "title": "Inspect",
         "content": "tools/collection-inspector"
-      },
-      {
-        "title": "Search",
-        "content": "tools/single-search"
       },
       {
         "title": "View",
