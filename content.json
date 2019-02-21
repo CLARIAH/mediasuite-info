@@ -93,7 +93,7 @@
         "children": [
           {
         "title": "Search",
-        "content": "tools/single-search"
+        "content": "data/single-search"
       }
         ]
       }
