@@ -89,14 +89,16 @@
       },
       {
         "title": "Automatic enrichments",
-        "content": "data/automatic-enrichments"
+        "content": "data/automatic-enrichments",
+        "children": [
+          {
+        "title": "Search",
+        "content": "tools/single-search"
+      }
+        ]
       }
     ]
 },
-{
-        "title": "Search",
-        "content": "tools/single-search"
-      },
   {
     "title": "Tools",
     "content": "tools",
