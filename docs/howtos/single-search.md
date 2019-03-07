@@ -1,18 +1,19 @@
-How to search
+Search tool: HowTos
 ---
 
 In this help menu you will learn How To:
 
 - [Use the Search tool (Screencast)](#screencast)
-- [Know which data is used by the Search tool](#data)
+- [Select collections](#data)
+- [Create user projects](#user-project)
 - [Use search expressions (Boolean operators)](#search-boolean)
 - [Search per field (syntax)](#search-syntax)
 - [Search per field (field cluster selector)](#field-cluster)
 - [Filtering per date](#date-filter)
 - [Understand time line charts](#timeline-charts)
 - [Filter using facets](#facets)
-- [Understand how search results are ranked](#result-list)
-- [Order your search results](#result-list)
+- [Understand how search results are ranked](#result-list-ranking)
+- [Order your search results](#result-list-ordering)
 - [Save your query](#saved-queries)
 - [Bookmark search results](#bookmarking)
 
@@ -26,9 +27,33 @@ In this help menu you will learn How To:
 
 
 
-### <a name="data"></a>Know which data used by the Search tool
+### <a name="data"></a>Select collections
 
 This tool uses all the data and enrichments available via the Media Suite. See [Data page](http://mediasuite.clariah.nl/data) for more information.
+
+The Search tool works with one collection at the time, i.e., not all collections can be searched simultaneously at this moment. 
+
+To select a collection:
+
+1. Click on the Select collection button.
+2. Observe the list of collections. You can also search collections by their title and provider, and you can read more details about each collection cliking on the "Read more" option, a separate window opens then, which brings you to the Data registry in CKAN.
+3. Click on the collection you would like to use. It gets loaded and ready to use immediately by the tool.
+
+See also other HowTos related to the inspection and understanding of the collections and data you are using:
+
+- Inspect metadata quality
+- Understand metadata (metadata dictionaries)
+
+### <a name="user-project"></a>Create user projects
+
+If you would like to store bookmarks and other annotations during your search, the Workspace of the Media Suite requires the creation of a User project. 
+
+In the Search tool you can either select an existing User project or create a new one.
+
+See also:
+
+- What are [user projects](http://mediasuite.clariah.nl/documentation/glossary/user-project)
+- [How to work with user projects](http://mediasuite.clariah.nl/documentation/workspace/user-projects)
 
 ### <a name="search-boolean"></a>Use search expressions (Boolean operators)
 
@@ -36,13 +61,18 @@ At this moment (version 4) the search API detects when a user does a boolean/wil
 
 **OR**
 
-- Default operator. Connect two or more similar concepts (synonyms). ANY of your search terms can be present in the resulting records. Broaden your results.
+- Default operator. Connect two or more similar concepts (synonyms). ANY of your search terms can be present in the resulting records. Broaden your results
+- Example: Koningin Beatrix 
+- Searches for the word ‘Beatrix’ OR the word ‘Koningin’
 
 **AND**
 
 - ALL search terms must be present in the resulting records. Narrows your results
-- Example: Koningin AND Beatrix
-- Searches for the word ‘Koningin’ AND the word ‘Beatrix’ - but they do not have to be next to each other
+- Example1: Koningin AND Beatrix
+- Example1 searches for the word ‘Koningin’ AND the word ‘Beatrix’ - but they do not have to be next to each other
+- Keep into accout that the word AND has to be capitalized
+- Example2: Koningin and beatrix
+- Example 2 searches for items with the word ‘Koningin’ OR the word ‘and’ OR the word ‘beatrix’. 
 
 **NOT**
 
@@ -51,8 +81,8 @@ At this moment (version 4) the search API detects when a user does a boolean/wil
 **\***
 
 - Wildcard which matches any character sequence (including the empty one).
-- Example 1: boeren* --> *boerenleven, boerenmarkt*
-- Example 2: boeren *  --> *boeren zijn bang*
+- Example 1: boeren* --> boerenleven, boerenmarkt
+- Example 2: boeren *  --> boeren zijn bang
 - Note that a space between the last character and the asterisk wildcard influences the results
 
 **?**
@@ -64,18 +94,16 @@ At this moment (version 4) the search API detects when a user does a boolean/wil
 **" "**
 
 - Exact expression
-
 - Example 1: "Broodje Aap"
-- Searches for the phrase *Broodje Aap*
+- Searches for the phrase Broodje Aap
 
 **Nesting and search order**
 
 - Nesting queries is supported
-
 - Use parentheses to separate the queries. The logical order in which words are connected influences the results
 - Example1. (koe AND varkens) OR boeren 
 - Example2. Koningin AND Beatrix NOT “Koningin Beatrix”
-- Example2 searches for items with the word ‘Koningin’ AND the word ‘Beatrix’ - but NOT the phrase ‘Koningin Beatrix’.  So we get e.g. items that talk about Prinses Beatrix and Koningin Juliana, but not Koningin Beatrix
+- Example2 searches for items with the word ‘Koningin’ AND the word ‘Beatrix’ - but NOT the phrase ‘Koningin Beatrix’. So we get e.g. items that talk about Prinses Beatrix and Koningin Juliana, but not Koningin Beatrix
 
 **Capitalization**
 
@@ -151,11 +179,25 @@ You can limit your query to a specific period of time. It is important to keep i
 
 ### <a name="bookmarking"></a> Bookmark search results
 
-* Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](http://mediasuite.clariah.nl/documentation/workspace/user-projects/bookmarks) in the Documentation.
+* After you have made a query according to your wishes using the [Search tool](http://mediasuite.clariah.nl/documentation/tools/single-search), you can select (bookmark) results to your Workspace.
+
+* The screencast below shows how the bookmarking functionality works:
 
    <iframe width="560" height="315" src="https://www.youtube.com/embed/2fVNz6eh6Sg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- If you have not done so, create your own [User project](http://mediasuite.clariah.nl/documentation/workspace/user-projects) in the Work space
 
+- Once you get a result list, use the icons on the left of the items to mark/unmark the items of your preference
+
+- You will get a dialog window inviting you to save your bookmarks to the user project that you created in the first step
+
+  - Note: there will be improvements in Version 4 allowing you to "remember" your selected items when changing pages in the search results. In this way, you can bookmark results across different collections during a single session.
+
+- Another way to bookmark, individual items in this case, is via the [Resource viewer](http://mediasuite.clariah.nl/documentation/tools/resource-viewer), you will find a bookmark icon in the viewer, and also the option to select the active User project in which you want to save your bookmark.
+
+- To see the resulting list of bookmarks, you can go to the [Workspace](http://mediasuite.clariah.nl/documentation/workspace) and find them in the User project where you have saved them. See also the [Bookmarks section](http://mediasuite.clariah.nl/documentation/workspace/user-projects/bookmarks) in the Documentation.
+
+  
 
 > **Please use our [Public forum](https://gitter.im/CLARIAH-media-studies/Lobby) if you miss content in this page or if you find any issues while using the Media Suite.**
 
