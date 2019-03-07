@@ -32,19 +32,21 @@ This tool uses all the data and enrichments available via the Media Suite. See [
 
 ### <a name="search-boolean"></a>Use search expressions (Boolean operators)
 
-- At this moment (version 4) the search API detects when a user does a boolean/wildcard query by looking for the keywords: 
+At this moment (version 4) the search API detects when a user does a boolean/wildcard query by looking for the keywords: 
 
-  | Operator                      | Use                                                          | Examples                                                     | Explanation                                                  |
-  | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-  | OR                            | Default operator. Connect two or more similar concepts (synonyms). ANY of your search terms can be present in the resulting records. Broaden your results. |                                                              |                                                              |
-  | AND                           | ALL search terms must be present in the resulting records. Narrows your results | Koningin AND Beatrix                                         | Searches for the word ‘Koningin’ AND the word ‘Beatrix’ - but they do not have to be next to each other |
-  | NOT                           | Ignore concepts (words) that may be implied by your search terms |                                                              |                                                              |
-  | *                             | Wildcard which matches any character sequence (including the empty one). | boeren* --> *boerenleven, boerenmarkt*.      boeren *  --> *boeren zijn bang* | Note that a space between the last character and the asterisk wildcard influences the results |
-  | ?                             | Wildcard which matches any single character                  | vluchteling?                                                 | Searches for a word that starts with ‘vluchteling’ and has one extra character (e.g. ‘vluchtelinge’) |
-  | " "                           |                                                              | "Broodje Aap"                                                | Searches for the phrase *Broodje Aap*                        |
-  | Nesting and search order      | Nesting queries is supported. Use parentheses to separate The logical order in which words are connected influences the results | Example1. (koe AND varkens) OR boeren Example2. Koningin AND Beatrix NOT “Koningin Beatrix” | Example2 searches for items with the word ‘Koningin’ AND the word ‘Beatrix’ - but NOT the phrase ‘Koningin Beatrix’.  So we get e.g. items that talk about Prinses Beatrix and Koningin Juliana, but not Koningin Beatrix. |
-  | Capitalization                | Boolean queries are not case-sensitive                       | bordeaux Bourdeaux                                           | SEarching for any of these two terms will give the same results |
-  | Query corrections/suggestions | This is not supported                                        | koningi                                                      | No matches (matching is precise and does not accept typos or missing letters) |
+![Search expressions](https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/search-expressions-boolean-operators.png?raw=true)
+
+| Operator                      | Use                                                          | Examples                                                     | Explanation                                                  |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| OR                            | Default operator. Connect two or more similar concepts (synonyms). ANY of your search terms can be present in the resulting records. Broaden your results. |                                                              |                                                              |
+| AND                           | ALL search terms must be present in the resulting records. Narrows your results | Koningin AND Beatrix                                         | Searches for the word ‘Koningin’ AND the word ‘Beatrix’ - but they do not have to be next to each other |
+| NOT                           | Ignore concepts (words) that may be implied by your search terms |                                                              |                                                              |
+| *                             | Wildcard which matches any character sequence (including the empty one). | boeren* --> *boerenleven, boerenmarkt*.      boeren *  --> *boeren zijn bang* | Note that a space between the last character and the asterisk wildcard influences the results |
+| ?                             | Wildcard which matches any single character                  | vluchteling?                                                 | Searches for a word that starts with ‘vluchteling’ and has one extra character (e.g. ‘vluchtelinge’) |
+| " "                           |                                                              | "Broodje Aap"                                                | Searches for the phrase *Broodje Aap*                        |
+| Nesting and search order      | Nesting queries is supported. Use parentheses to separate The logical order in which words are connected influences the results | Example1. (koe AND varkens) OR boeren Example2. Koningin AND Beatrix NOT “Koningin Beatrix” | Example2 searches for items with the word ‘Koningin’ AND the word ‘Beatrix’ - but NOT the phrase ‘Koningin Beatrix’.  So we get e.g. items that talk about Prinses Beatrix and Koningin Juliana, but not Koningin Beatrix. |
+| Capitalization                | Boolean queries are not case-sensitive                       | bordeaux Bourdeaux                                           | SEarching for any of these two terms will give the same results |
+| Query corrections/suggestions | This is not supported                                        | koningi                                                      | No matches (matching is precise and does not accept typos or missing letters) |
 
 *   Future work includes supporting proximity parameters.
 
