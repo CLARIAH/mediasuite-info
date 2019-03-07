@@ -1,4 +1,4 @@
-Search tool: HowTos
+Tool: Search
 ---
 
 In this help menu you will learn How To:
