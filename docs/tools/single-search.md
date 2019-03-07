@@ -1,10 +1,5 @@
-<<<<<<< HEAD:docs/howtos/single-search.md
 Tool: Search
 =======
-How to search
->>>>>>> parent of 6e5eaea... Test: Search tool docs changed:docs/tools/single-search.md
----
-
 In this help menu you will learn How To:
 
 - [Use the Search tool (Screencast)](#screencast)
