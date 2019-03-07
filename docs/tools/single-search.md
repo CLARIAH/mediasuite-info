@@ -1,23 +1,24 @@
-Tool: Search
+How to search
 ---
 
-Dedicated tool for searching/exploring through a single collection. In this help menu you will learn:
+In this help menu you will learn How To:
 
-- [How to use this tool (Screencast)](#screencast)
-- [Data used by this tool](#data)
-- [Search expressions (Boolean operators)](#search-boolean)
+- [Use the Search tool (Screencast)](#screencast)
+- [Know which data is used by the Search tool](#data)
+- [Use search expressions (Boolean operators)](#search-boolean)
 - [Search per field (syntax)](#search-syntax)
 - [Search per field (field cluster selector)](#field-cluster)
 - [Filtering per date](#date-filter)
-- [Time line charts](#timeline-charts)
-- [Filtering using facets](#facets)
-- [Search results (ranking, ordering)](#result-list)
-- [Save query](#saved-queries)
-- [Bookmarking search results](#bookmarking)
+- [Understand time line charts](#timeline-charts)
+- [Filter using facets](#facets)
+- [Understand how search results are ranked](#result-list)
+- [Order your search results](#result-list)
+- [Save your query](#saved-queries)
+- [Bookmark search results](#bookmarking)
 
 ---
 
-### <a name="screencast"></a> How to use this tool
+### <a name="screencast"></a>Use the Search tool
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cA7c53e-MAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -25,27 +26,25 @@ Dedicated tool for searching/exploring through a single collection. In this help
 
 
 
-### <a name="data"></a> Data used by this tool
+### <a name="data"></a>Know which data used by the Search tool
 
 This tool uses all the data and enrichments available via the Media Suite. See [Data page](http://mediasuite.clariah.nl/data) for more information.
 
-### <a name="search-boolean"></a> Search expressions (Boolean operators)
+### <a name="search-boolean"></a>Use search expressions (Boolean operators)
 
 - At this moment (version 4) the search API detects when a user does a boolean/wildcard query by looking for the keywords: 
 
-  ​	**OR**, no need to type this operator explicitly since it is the default operator
-
-  ​	**NOT** 
-
-  ​	**AND** 
-
-  ​	***** (wildcard which matches any character sequence (including the empty one). Keep in mind to 	      	leave a space between the last character and the asterisk wildcard)
-
-  ​	**?** (wildcard which matches any single character, e.g., if you search for <u>migra?t</u>, you will find matches 	with terms such as: <u>migranten</u>, <u>migrantenvoorganger</u>, among others)
-
-*   Boolean queries are case-sensitive
-
-*   Nesting is supported, e.g., (koe AND varkens) OR boeren
+  | Operator                      | Use                                                          | Examples                                                     | Explanation                                                  |
+  | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+  | OR                            | Default operator. Connect two or more similar concepts (synonyms). ANY of your search terms can be present in the resulting records. Broaden your results. |                                                              |                                                              |
+  | AND                           | ALL search terms must be present in the resulting records. Narrows your results | Koningin AND Beatrix                                         | Searches for the word ‘Koningin’ AND the word ‘Beatrix’ - but they do not have to be next to each other |
+  | NOT                           | Ignore concepts (words) that may be implied by your search terms |                                                              |                                                              |
+  | *                             | Wildcard which matches any character sequence (including the empty one). | boeren* --> *boerenleven, boerenmarkt*.      boeren *  --> *boeren zijn bang* | Note that a space between the last character and the asterisk wildcard influences the results |
+  | ?                             | Wildcard which matches any single character                  | vluchteling?                                                 | Searches for a word that starts with ‘vluchteling’ and has one extra character (e.g. ‘vluchtelinge’) |
+  | " "                           |                                                              | "Broodje Aap"                                                | Searches for the phrase *Broodje Aap*                        |
+  | Nesting and search order      | Nesting queries is supported. Use parentheses to separate The logical order in which words are connected influences the results | Example1. (koe AND varkens) OR boeren Example2. Koningin AND Beatrix NOT “Koningin Beatrix” | Example2 searches for items with the word ‘Koningin’ AND the word ‘Beatrix’ - but NOT the phrase ‘Koningin Beatrix’.  So we get e.g. items that talk about Prinses Beatrix and Koningin Juliana, but not Koningin Beatrix. |
+  | Capitalization                | Boolean queries are not case-sensitive                       | bordeaux Bourdeaux                                           | SEarching for any of these two terms will give the same results |
+  | Query corrections/suggestions | This is not supported                                        | koningi                                                      | No matches (matching is precise and does not accept typos or missing letters) |
 
 *   Future work includes supporting proximity parameters.
 
@@ -74,11 +73,11 @@ You can limit your query to a specific period of time. It is important to keep i
 - In the date filter, you first have to select which date field you would like to use for filtering, and then enter the date range. For example, for The Sound and Vision audiovisual collection, we recommend to select the field "programsortdate (in: publications)" (which is the equivalent to the "broadcasting date"). You can check how complete this metadata field has been over time by using the Inspector tool.
 - If you don't select a date field, you won't see the visualization of your results based on time.
 
-### <a name="timeline-charts"></a> Time line charts
+### <a name="timeline-charts"></a>Understand time line charts
 
 (Forthcoming)
 
-### <a name="facets"></a> Filtering using facets
+### <a name="facets"></a> Filter using facets
 
 * Faceted search: Facets include aggregations of terms from the metadata fields of the type "Keyword field", the terms included in each facet can be used for filtering the results of your query. To see the metadata fields that are of the type "Keyword", you can use the "Inspect" tool. At this moment (version 3) we support:
 
@@ -86,7 +85,7 @@ You can limit your query to a specific period of time. It is important to keep i
   *   Creation of new facets: users are allowed to add their own facets to the faceted search functionality (see screencast: Search)
 
 
-### <a name="result-list"></a> Search results (ranking, ordering)
+### <a name="result-list-ranking"></a> Understand how search results are ranked
 
 * List of search results: The Search tool gives a list of search results after entering your query and filters. You can in this list:
 
@@ -101,11 +100,13 @@ You can limit your query to a specific period of time. It is important to keep i
       *   Media type: there are icons on the right side of each item indicating whether it is of the type image, audio, video, or text
       *   Access: if you can "view", "play", "read" a document, you will see an icon with an open eye on the right side of the item
 
-### <a name="saved-queries"></a> Save query
+### <a name="result-list-ordering"></a>Order your search results
+
+### <a name="saved-queries"></a> Save your query
 
 * Save the query paramenters: the Search tool allows users to store the queries for further use giving them a name. See [Saved queries](http://mediasuite.clariah.nl/documentation/workspace/user-projects/queries) section for more details.
 
-### <a name="bookmarking"></a> Bookmarking search results
+### <a name="bookmarking"></a> Bookmark search results
 
 * Bookmark items: the screencast below shows how the bookmarking functionality works. See also the [Bookmarks section](http://mediasuite.clariah.nl/documentation/workspace/user-projects/bookmarks) in the Documentation.
 
@@ -115,5 +116,5 @@ You can limit your query to a specific period of time. It is important to keep i
 
 > **Please use our [Public forum](https://gitter.im/CLARIAH-media-studies/Lobby) if you miss content in this page or if you find any issues while using the Media Suite.**
 
-*(Last update: January 29, 2019)*
+*(Last update: March 7, 2019)*
 
