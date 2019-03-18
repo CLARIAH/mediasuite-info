@@ -20,6 +20,8 @@ Please use our [contact details](http://mediasuite.clariah.nl/contact) if you ne
 
 Besides, we produce ***Collection notebooks*** to create overviews of the Media Suite's collections composition. We use some of the visualizations produced with these notebooks to update our Collection pages in the [Data registry CKAN](http://mediasuitedata.clariah.nl/). More complete documentation of the Collection notebooks can be found in the [Github repository wiki](https://github.com/beeldengeluid/labs-search-api/wiki/Collection-Notebooks).
 
+**See our publication about [the Jupyter notebooks and the Media Suite](<https://www.zotero.org/groups/2288915/clariah_media_suite_research_and_dissemination_outputs/items/tag/jupyter-notebooks>)**.
+
 
 
 ​																	*(Last update: March 18, 2019)*
