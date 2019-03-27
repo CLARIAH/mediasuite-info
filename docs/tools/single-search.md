@@ -11,7 +11,7 @@ In this help menu you will learn How To:
 - [Understand time line charts](#timeline-charts)
 - [Filter using facets](#facets)
 - [Understand how search results are ranked](#result-list)
-- [Order your search results](#result-list)
+- [Order your search results](#result-list-ordering)
 - [Save your query](#saved-queries)
 - [Bookmark search results](#bookmarking)
 
