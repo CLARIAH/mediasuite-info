@@ -39,7 +39,7 @@
 		    },
 		    {
 		        "title": "Is the data enriched automatically?",
-		        "content": "data/is-data-enriched"
+		        "content": "faq/is-data-enriched"
 		    },
 		    {
 		        "title": "Who can access the Media Suite?",
@@ -51,7 +51,7 @@
 		    },
 		    {
 		        "title": "Can I play/view all the sources that I find via the Media Suite?",
-		        "content": "faq/howto-play-view"
+		        "content": "faq/can-play-view"
 		    },
 		    {
 		        "title": "How does the Media Suite work?",
@@ -70,8 +70,8 @@
 		        "content": "faq/where-is-hosted"
 		    },
 		    {
-		        "title": "How can I integrate data into the Media Suite?",
-		        "content": "faq/how-to-register-data"
+		        "title": "Can I integrate data into the Media Suite?",
+		        "content": "faq/register-data"
 		    },
 		    {
 		        "title": "What are the CLARIAH research pilot projects?",
