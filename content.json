@@ -187,7 +187,15 @@
            	}
            ]
       },
-      {
+    {
+    	"title": "Troubleshooting",
+    	"content": "troubleshooting"
+    },
+    {
+    	"title": "Help and feedback forum",
+        "content": "forum"
+    },
+    {
       	"title": "Example research projects",
     	"content": "research-projects",
     	"children": [
@@ -196,14 +204,6 @@
     			"content": "research-projects/summer-school-refugee-crisis"
     		}
     	]
-    },
-    {
-    	"title": "Troubleshooting",
-    	"content": "troubleshooting"
-    },
-    {
-    	"title": "Help and feedback forum",
-        "content": "forum"
     },
   	{
         "title": "APIs",
