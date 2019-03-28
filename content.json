@@ -3,24 +3,6 @@
 		"title": "Introduction",
 		"content": "introduction"
 	},
-	{
-		"title": "Media Suite's building blocks",
-    	"content": "buildingblocks",
-    	"children": [
-    		{
-    			"title": "Data",
-    			"content": "buildingblocks/data"
-    		},
-    		{
-    			"title": "Tools",
-    			"content": "buildingblocks/tools"
-    		},
-    		{
-    			"title": "Workspace",
-    			"content": "buildingblocks/workspace"
-    		}
-    	]
-    },
     {
     	"title": "FAQ",
     	"content": "faq",
@@ -134,7 +116,19 @@
 	        {
 	          	"title": "Select collections",
 	          	"content": "howtos/select-collections"
-	        }, 
+	        },
+	        {
+    			"title": "Use the data",
+    			"content": "howtos/data"
+    		},
+    		{
+    			"title": "Use the tools",
+    			"content": "howtos/tools"
+    		},
+    		{
+    			"title": "Use the workspace",
+    			"content": "howtos/workspace"
+    		},
 	        {
 	        	"title": "Work with the Workspace's user projects",
           		"content": "howtos/user-projects",   
