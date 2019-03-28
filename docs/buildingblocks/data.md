@@ -1,7 +1,7 @@
 Data
 ---
 
-Read more about the How-Tos of the Media Suite's data in our [data documentation pages](http://mediasuite.clariah.nl/documentation/data), where you will find information about:
+test Read more about the How-Tos of the Media Suite's data in our [data documentation pages](http://mediasuite.clariah.nl/documentation/data), where you will find information about:
 
 - [How to find data/collections](http://mediasuite.clariah.nl/documentation/data/find-data)
 - [How to search and explore the data/collections](http://mediasuite.clariah.nl/documentation/tools)
