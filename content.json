@@ -53,7 +53,7 @@
 		    },
 		    {
 		        "title": "Can I integrate data into the Media Suite?",
-		        "content": "faq/register-data"
+		        "content": "faq/can-register-data"
 		    },
 		    {
 		        "title": "What are the CLARIAH research pilot projects?",
@@ -304,7 +304,7 @@
 		]
     },	  
     {
-    	"title": "Terms ",
+    	"title": "Terms of use and privacy",
     	"content": "privacy-statement"
     }
 ]
