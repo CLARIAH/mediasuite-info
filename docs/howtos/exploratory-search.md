@@ -28,7 +28,7 @@ Steps:
 4. Observe that the Explore tool allows you to search and browse based on "entities":
 
    - You can get information about the different types of "entities" that have been extracted from the original collections:
-     - **Media objects**: these are the records of the resources (i.e., video, audio, text, image) which metadata and, in most cases, the objects itself, are available via the Media Suite. See also the [FAQ section: Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/howto-play-view)
+     - **Media objects**: these are the records of the resources (i.e., video, audio, text, image) which metadata and, in most cases, the objects itself, are available via the Media Suite. See also the [FAQ section: Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/can-play-view)
      - **People**: names of persons, which have been extracted or identified in the metadata or content of the resources
      - **Locations**: names of places, which have been extracted or identified in the metadata or content of the resources.
      - **Concepts**: terms representing ideas, which have been extracted or identified in the metadata or content of the resources.
@@ -47,12 +47,12 @@ Steps:
    - Bookmark entities in this path (use the star icon on the right) 
      - ***Note**:* *Please note that there are two bookmarking options*: 
        - (1) the bookmark button in the browsing interface and in the "Exploration path": this bookmarks items and entities in your path (these items are not saved to your Workspace/Bookmarks, but to your "Exploration path" only. 
-       - (2) the bookmark button that you see when you view a media object in the [Resource viewer](http://mediasuite.clariah.nl/documentation/tools/resource-viewer): If you bookmark the resources here, they will be saved to your Workspace/Bookmarks).
+       - (2) the bookmark button that you see when you view a media object in the [Resource viewer](http://mediasuite.clariah.nl/documentation/howtos/resource-viewer): If you bookmark the resources here, they will be saved to your Workspace/Bookmarks).
    - Add user comments or notes, by clicking on the three vertical dots on the left side of the bookmark icon. These comments are inserted between the entities, they allow you to add commentary to the path, so you can build a "narrative" of your exploration.
    - You can also clear your path, save it, load it, or export it. For these actions, click on the three vertical dots on the right side of the Exploration path menu:
-     - If you "Save" your path, you get the option to save it to the Media Suite [Workspace](http://mediasuite.clariah.nl/documentation/workspace). If you click on this option, you will see a pop-up window asking you to select a [User project](http://mediasuite.clariah.nl/documentation/workspace/user-projects). If you haven't created a User project, go first to the Workspace and create one.
+     - If you "Save" your path, you get the option to save it to the Media Suite [Workspace](http://mediasuite.clariah.nl/documentation/howtos/workspace). If you click on this option, you will see a pop-up window asking you to select a [User project](http://mediasuite.clariah.nl/documentation/howtos/user-projects). If you haven't created a User project, go first to the Workspace and create one.
      - Once you have saved your path, you can visit it in the Media Suite Workspace, going to the User project where you created it, to the tab "Tool sessions."
-     - In the Workspace, you can also find your [bookmarks](http://mediasuite.clariah.nl/documentation/tools/bookmark) (in the "Bookmarks" tab), besides the fragments and annotations that you added to the media objects and fragments using the Resource viewer.
+     - In the Workspace, you can also find your [bookmarks](http://mediasuite.clariah.nl/documentation/howtos/user-projects/bookmarks) (in the "Bookmarks" tab), besides the fragments and annotations that you added to the media objects and fragments using the Resource viewer.
      - You can also "Load" (recreate) and "Export" your exploration path.
 
 
