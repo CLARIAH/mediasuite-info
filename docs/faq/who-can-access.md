@@ -12,7 +12,7 @@ Limited access to the Media Suite can occur when:
 - **When you don't have a Dutch institutional affiliation**: This happens when you find the institution in the SURFconext list, but you don't have valid credentials to log in. In Version 3, it is currently impossible to use the Media Suite without institutional credentials. We are working towards a  solution for this situation  in future versions.
 - **When a non-Dutch institution wants to have access to the Media Suite**: This is impossible in Media Suite version 3. A possible solution may be to ask a Dutch host institution listed in the SURFConext institutions to create a temporary institutional account.
 
-See also: [How to log in](http://mediasuite.clariah.nl/documentation/howtos#login)
+See also: [How to log in](http://mediasuite.clariah.nl/documentation/howtos/login)
 
 
 

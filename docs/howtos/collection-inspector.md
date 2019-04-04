@@ -19,7 +19,7 @@ It is important to have clear that the collection inspector does not give search
 1. When you open the Inspect tool you will find a button to add a Collection. This opens the "Collection selector," where you can see the available collections (see [FAQ section: What kind of data is available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data))
 2. When you select a collection, you can inspect its metadata fields by clicking on "Select field to analyse"
 3. In this graphic you can see the completeness of ONE metadata field over time. The timeline chart uses a date field selected by the user. Be aware that these date fields are also metadata, and that they can also be more or less complete. You can evaluate the completeness of a date field as well, using the first option in Step 1.
-4. There is a [Jupyter notebook](http://mediasuite.clariah.nl/documentation/workspace/jupyter-notebooks) prepared for complementing the functions available in this tool. For example:
+4. There is a [Jupyter notebook](http://mediasuite.clariah.nl/documentation/howtos/jupyter-notebooks) prepared for complementing the functions available in this tool. For example:
    - If you want to compare the completeness of two or more metadata fields
    - If you want to check the metadata completeness of a section of the collection (e.g., for resources of a certain media type)
 
@@ -31,7 +31,7 @@ Because the Media Suite has been built following the principles of metadata tran
 
 In Version 3, we provide an example of a good practice in documenting the metadata schemas for the users. This is done via "metadata dictionaries," which provide definitions of the metadata field (regardless of their labels) when they are used in the Media Suite. 
 
-We have integrated this dictionary for one collection (The Netherlands Institute for Sound and Vision). The institution was responsible for creating a file with the technical label of the field plus a user-friendly label and a user-oriented definition of the field. These data was integrated into the Media Suite (you can observe it, for instance, when you click in the drop-down menu in the [Inspector tool](http://mediasuite.clariah.nl/documentation/tools/collection-inspector)).
+We have integrated this dictionary for one collection (The Netherlands Institute for Sound and Vision). The institution was responsible for creating a file with the technical label of the field plus a user-friendly label and a user-oriented definition of the field. These data was integrated into the Media Suite (you can observe it, for instance, when you click in the drop-down menu in the [Inspector tool](http://mediasuite.clariah.nl/documentation/howtos/collection-inspector)).
 
 The CLARIAH WP5 team encourages other providing institutions to create and publish these metadata dictionaries as part of their metadata schemas and documentation.
 

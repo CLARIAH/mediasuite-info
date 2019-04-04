@@ -1,6 +1,6 @@
 ## What collections/data are available via the Media Suite?
 
-The Media Suite aggregates metadata from audiovisual collections and related multi-media contextual sources that are maintained at cultural heritage and knowledge institutions in The Netherlands. In Version 3, the Media Suite offers simultaneous (but not integrated) access to 9 collections (grouped by provider). For detailed information about each Collection, see [the Media Suite registration system CKAN](http://mediasuitedata.clariah.nl/), or the [Data section](http://mediasuite.clariah.nl/documentation/data) of the Documentation pages.
+The Media Suite aggregates metadata from audiovisual collections and related multi-media contextual sources that are maintained at cultural heritage and knowledge institutions in The Netherlands. In Version 3, the Media Suite offers simultaneous (but not integrated) access to 9 collections (grouped by provider). For detailed information about each Collection, see [the Media Suite registration system CKAN](http://mediasuitedata.clariah.nl/), or the [Data section](http://mediasuite.clariah.nl/documentation/howtos/data) of the Documentation pages.
 
  In Version 3, the collections available via the Media Suite include:
 
@@ -9,7 +9,7 @@ The Media Suite aggregates metadata from audiovisual collections and related mul
 - The audio-visual collection. Most resources can be played via The Media Suite (see [FAQ: Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/howto-play-view))
 - The television collection (same as above for access to the resources)
 - The radio collection (same as above for access to the resources)
-- One part of these collections has been enriched via automatic speech recognition (ASR) (see the [automatic enrichments](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments) section)
+- One part of these collections has been enriched via automatic speech recognition (ASR) (see the [automatic enrichments](http://mediasuite.clariah.nl/documentation/faq/is-data-enriched) section)
 
 **The EYE Filmuseum's Jean Desmet collections**
 

@@ -3,10 +3,10 @@ Data
 
 Read more about the How-Tos of the Media Suite's data in our [data documentation pages](http://mediasuite.clariah.nl/documentation/data), where you will find information about:
 
-- [How to find data/collections](http://mediasuite.clariah.nl/documentation/data/find-data)
-- [How to search and explore the data/collections](http://mediasuite.clariah.nl/documentation/tools)
-- [How to use the metadata dictionaries](http://mediasuite.clariah.nl/documentation/data/metadata-dictionaries)
-- [How to use the automatic enrichments](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments) (from version 3: automatic speech recognition (ASR) transcripts)
+- [How to find data/collections](http://mediasuite.clariah.nl/documentation/howtos/select-collections)
+- [How to search and explore the data/collections](http://mediasuite.clariah.nl/documentation/howtos/tools)
+- [Inspect the metadata and their completeness](http://mediasuite.clariah.nl/documentation/howtos/collection-inspector)
+- [How to know which data has automatic enrichments](http://mediasuite.clariah.nl/documentation/faq/is-data-enriched) (from version 3: automatic speech recognition (ASR) transcripts are available for a growing number of The Netherlands Institute for Sound and Vision collections)
 
 See also the most frequently asked questions:
 

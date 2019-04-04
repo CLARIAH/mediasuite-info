@@ -27,7 +27,7 @@ Here you will find **dynamic and updated reports** of the progress of ASR as it 
 **Other sources of information about ASR processing**:
 
 - Overview: in the release notes, per version, see [Release notes Version 3](http://mediasuite.clariah.nl/documentation/release-notes/v3). 
-- In the [Collection Inspector tool](http://mediasuite.clariah.nl/tool/collection-inspector), adding the Audio-visual collection of Sound and Vision, and inspecting the fields with the label ASR (use the search box).
+- In the [Collection Inspector tool](http://mediasuite.clariah.nl/documentation/howtos/collection-inspector), adding the Audio-visual collection of Sound and Vision, and inspecting the fields with the label ASR (use the search box).
 
 ### Optical character recognition (OCR)
 

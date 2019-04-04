@@ -1,7 +1,7 @@
 Saved queries
 ---
 
-When using the [Search tool](http://mediasuite.clariah.nl/documentation/tools/single-search) of the Media Suite, users create queries using different search parameters (e.g., date filters). The Media Suite allows users to save these queries for further reference in their Workspace, and for comparing results using the [Compare](http://mediasuite.clariah.nl/documentation/tools/query-comparison) tool.
+When using the [Search tool](http://mediasuite.clariah.nl/documentation/howtos/single-search) of the Media Suite, users create queries using different search parameters (e.g., date filters). The Media Suite allows users to save these queries for further reference in their Workspace, and for comparing results using the [Compare](http://mediasuite.clariah.nl/documentation/howtos/query-comparison) tool.
 
 The query parameters stored are the following:
 
@@ -29,7 +29,7 @@ The query parameters stored are the following:
 
 <img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/saved_queries.jpg?raw=true" width="600px" />
 
-You can then either copy the parameters (e.g., to use it in a publication in which you would like to explain which query you used to get the data), or select the saved queries that you would like to compare (see how to use the [Compare tool](http://mediasuite-test.rdlabs.beeldengeluid.nl/documentation/tools/query-comparison)).
+You can then either copy the parameters (e.g., to use it in a publication in which you would like to explain which query you used to get the data), or select the saved queries that you would like to compare (see how to use the [Compare tool](http://mediasuite.clariah.nl/documentation/howtos/query-comparison)).
 
 
 
