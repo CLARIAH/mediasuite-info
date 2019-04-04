@@ -5,7 +5,7 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 **Coordination**
 
 - Work package/research coordination: Julia Noordegraaf ([J.J.Noordegraaf@uva.nl](mailto:J.J.Noordegraaf@uva.nl))
-- Technical coordination, Netherlands Institute for Sound and Vision: Roeland Ordelman ([rordelman@beeldengeluid.nl](mailto:rordelman@beeldengeluid.nl))
+- Technical coordination and product manager at Netherlands Institute for Sound and Vision: [Roeland Ordelman](https://roelandordelman.nl) ([rordelman@beeldengeluid.nl](mailto:rordelman@beeldengeluid.nl))
 
 **Development team at NISV**
 
