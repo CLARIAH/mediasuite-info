@@ -27,6 +27,7 @@ Here you will find **dynamic and updated reports** of the progress of ASR as it 
 **Other sources of information about ASR processing**:
 
 - Overview: in the release notes, per version, see [Release notes Version 3](http://mediasuite.clariah.nl/documentation/release-notes/v3). 
+- Paper on [Speech Recognition and Scholarly research](https://research.utwente.nl/en/publications/speech-recognition-and-scholarly-research-usability-and-sustainab)
 - In the [Collection Inspector tool](http://mediasuite.clariah.nl/documentation/howtos/collection-inspector), adding the Audio-visual collection of Sound and Vision, and inspecting the fields with the label ASR (use the search box).
 
 ### Optical character recognition (OCR)
@@ -38,5 +39,5 @@ This type of automatic enrichment is available for these collections:
 
 
 
-   *(Last edit: February 6, 2019)*
+   *(Last edit: April 4, 2019)*
 
