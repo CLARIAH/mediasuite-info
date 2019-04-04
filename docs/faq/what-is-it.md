@@ -1,10 +1,10 @@
 # What is the Media Suite?
 
-The Media Suite is a part of the Dutch infrastructure for digital humanities and social sciences  [(CLARIAH)](https://clariah.nl/). It facilitates access to key Dutch audio-visual and contextual collections with advanced mixed media search and analysis tools.
+The Media Suite is a part of the Dutch infrastructure for digital humanities and social sciences  [(CLARIAH)](https://clariah.nl/). It facilitates access to key Dutch audio-visual and contextual collections with advanced multimedia search and analysis tools.
 
 The Media Suite is a research environment serving the needs of a wide variety of scholars (e.g., film, television, and other media scholars, oral historians, political historians) interested in cultural data and audiovisual heritage of Dutch history and society.
 
-The CLARIAH Media Suite aims to be an innovative digital research environment in which we are constantly experimenting with finding new ways of working with audiovisual cultural data. It furthermore aims to cater to various levels of expertise and research interests: from providing access to many audiovisual collections for exploratory research to close reading; and from more complex modes of data analysis to distant reading strategies. 
+The CLARIAH Media Suite is an innovative digital research environment in which we are experimenting with new ways of working with audiovisual heritage data. It furthermore aims to cater to various levels of expertise and research interests: from providing access to many audiovisual collections for exploratory research to close reading; and from more complex modes of data analysis to distant reading strategies. 
 
 The transparent search and analysis tools that the Media Suite offers, combined with its APIs that can be used with Jupyter notebooks, allow for many new possibilities for research and represents the middle ground between full algorithmic literacy and being a data novice. 
 
