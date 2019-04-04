@@ -6,7 +6,7 @@ The Media Suite aggregates metadata from audiovisual collections and related mul
 
 **The Netherlands Institute for Sound and Vision**
 
-- The audio-visual collection. Most resources can be played via The Media Suite (see [FAQ: Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/howto-play-view))
+- The audio-visual collection. Most resources can be played via The Media Suite (see [FAQ: Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/can-play-view))
 - The television collection (same as above for access to the resources)
 - The radio collection (same as above for access to the resources)
 - One part of these collections has been enriched via automatic speech recognition (ASR) (see the [automatic enrichments](http://mediasuite.clariah.nl/documentation/faq/is-data-enriched) section)
