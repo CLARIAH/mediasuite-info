@@ -4,7 +4,7 @@ The CLARIAH Media Suite requires authentication: users have to log in to access 
 
 CLARIAH outsources authentication to [SurfConnext](https://www.surf.nl/en/services-and-products/surfconext/index.html), a service offered by SURF, an  ICT organisation for Dutch education and research. Students, teachers and researchers with an institutional account can log in to the Media Suite via SURFConext. 
 
-**Note**: CLARIAH aims  to provide an open service: while currently (in Version 4), authentication via SURFConext is still required, future versions will  partly remove  this restriction as to facilitate use of the  tools on open data collections.  No login will be needed when appling the tools to the open access data sets. Read the [FAQ about which collections can be viewed/played](http://mediasuite.clariah.nl/documentation/faq/howto-play-view).
+**Note**: CLARIAH aims  to provide an open service: while currently (in Version 4), authentication via SURFConext is still required, future versions will  partly remove  this restriction as to facilitate use of the  tools on open data collections.  No login will be needed when appling the tools to the open access data sets. Read the [FAQ about which collections can be viewed/played](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>).
 
 Limited access to the Media Suite can occur when:
 
