@@ -1,7 +1,7 @@
 Data
 ---
 
-Read more about the How-Tos of the Media Suite's data in our [data documentation pages](http://mediasuite.clariah.nl/documentation/data), where you will find information about:
+HowTos of the Media Suite's data:
 
 - [How to find data/collections](http://mediasuite.clariah.nl/documentation/howtos/select-collections)
 - [How to search and explore the data/collections](http://mediasuite.clariah.nl/documentation/howtos/tools)
@@ -12,5 +12,5 @@ See also the most frequently asked questions:
 
 - [What kind of data is available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data) 
 - [How does the Media Suite make the data available?](http://mediasuite.clariah.nl/documentation/faq/how-data-is-made-available)
-- [Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/howto-play-view)
+- [Can I play/view all the sources that I find via the Media Suite?](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>)
 

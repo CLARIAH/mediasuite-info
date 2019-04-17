@@ -22,7 +22,7 @@ The CLARIAH Media suite gives access to important national Dutch audiovisual arc
 
 - [What collections/data are available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data)
 - [How does the Media Suite make the data available?](http://mediasuite.clariah.nl/documentation/faq/how-data-is-made-available)
-- [Can I play/view all the sources that I find via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/howto-play-view)
+- [Can I play/view all the sources that I find via the Media Suite?](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>)
 
 ### Tools
 
