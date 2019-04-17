@@ -5,7 +5,7 @@ This tool facilitates comparative (re)search based on multiple queries on the sa
 
 ### Data
 
-This tool uses all the data and enrichments available via the Media Suite. See [Data page](http://mediasuite.clariah.nl/data) for more information.
+This tool uses all the data and enrichments available via the Media Suite. See [Data page](<http://mediasuite.clariah.nl/documentation/howtos/data>) for more information.
 
 ### How to use
 

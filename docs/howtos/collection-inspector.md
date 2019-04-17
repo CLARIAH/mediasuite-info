@@ -23,7 +23,7 @@ It is important to have clear that the collection inspector does not give search
    - If you want to compare the completeness of two or more metadata fields
    - If you want to check the metadata completeness of a section of the collection (e.g., for resources of a certain media type)
 
-   > If you are interested in the completeness of the ASR (automatic speech recognition transcripts) of the Netherlands Institute for Sound and Vision's audio-visual collection, visit [this page](http://mediasuite.clariah.nl/documentation/data/automatic-enrichments).
+   > If you are interested in the completeness of the ASR (automatic speech recognition transcripts) of the Netherlands Institute for Sound and Vision's audio-visual collection, visit [this page](<https://sites.google.com/beeldengeluid.nl/stats-beeldengeluid-nl/speech-recognition?pli=1>).
 
 ### Metadata dictionaries
 

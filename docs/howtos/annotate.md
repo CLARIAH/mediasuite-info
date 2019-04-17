@@ -10,7 +10,7 @@ You can read more about this tool and how it has been used in scholarly research
 
 ### How to use
 
-> See at our CLARIAH YouTube channel the [Screencast: "Manual video annotation"](https://www.youtube.com/watch?v=KL-YXK856OQ&t=157s), and [Annotate](https://www.youtube.com/watch?v=el5QzQgh58g&t=2s)
+> See at our CLARIAH YouTube channel the [Screencast: "Manual video annotation"](https://www.youtube.com/watch?v=KL-YXK856OQ&t=157s), and ["Annotate"](https://www.youtube.com/watch?v=el5QzQgh58g&t=2s)
 
 The control buttons are still under development, but the hotkeys allow you to create segments.
 
