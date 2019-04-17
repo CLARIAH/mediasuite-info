@@ -8,7 +8,7 @@ The current instance of CKAN implemented for the CLARIAH Media Suite includes da
 In the near future, more organisations can register their collections and add data themselves. Registration with an open licence is possible, but private access is also possible. The data itself can be added to each registered collection using different formats (e.g., XML, JSON, RDF).
 
 - Note: CLARIAH also offers other data registration services (see [Anansi information](https://www.clariah.nl/files/wp/wp2_anansi_project_brief.pdf); [Anansi video](https://vimeo.com/186090384)). Aligning these services is work in progress.
-- For questions or suggestions related to the Data services of the CLARIAH Media Suite, please use our [Collections chat room in Gitter](https://gitter.im/CLARIAH-media-studies/Collections-Data).
+- For questions or suggestions related to the Data services of the CLARIAH Media Suite, please use our [Collections chat room in Gitter](<http://mediasuite.clariah.nl/documentation/forum>).
 
 Note: Institutions making available their collections via the Media Suite are responsible for creating and making full documentation of the metadata schemas available. A good practice is to provide metadata dictionaries.
 

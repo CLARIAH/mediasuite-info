@@ -44,7 +44,7 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 - Kaspar von Beelen
 - Bernhard Rieder 
 
-**Scholars from the [CLARIAH research pilot projects**](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots)
+**Scholars from the [CLARIAH research pilot projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots)**
 
 - [CrossEWT project](https://clariah.nl/projecten/research-pilots/crossewt): Susan Hoogervorst
 - [Dream project](https://clariah.nl/projecten/research-pilots/dream): Toine Peters and Berrie van der Molen

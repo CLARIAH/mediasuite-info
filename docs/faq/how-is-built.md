@@ -11,9 +11,9 @@ The creation of the Media Suite followed a co-development approach: the interfac
 - In the second phase, which started in April 2017, external scholars were involved as co-developers under the framework of the [CLARIAH Research Pilot Projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots). This phase ended in June 2018, concluding with the launching of Version 3, where their input of these pilot projects is clearly reflected.
 - From 2018, the Media Suite will continue to be further developed in the framework of [CLARIAH Plus](https://www.clariah.nl/nieuw/nieuws/clariah-plus-gehonoreerd). Future versions will focus on supporting more advanced mixed-media and audio-visual analysis methods.
 
-More information about how the Media Suite has been built is in our paper presented at the Digital Humanities Conference (DH2018)
+More information about how the Media Suite has been built is in our publications, added [here](<https://www.zotero.org/groups/2288915/clariah_media_suite_research_and_dissemination_outputs>). See for instance:
 
-Ordelman, R., Martínez Ortíz, C., Melgar Estrada, L., Koolen, M., Blom, J., Melder, W., … Noordegraaf, J. (2018). [Challenges in Enabling Mixed Media Scholarly Research with Multi-media Data in a Sustainable Infrastructure](https://dh2018.adho.org/challenges-in-enabling-mixed-media-scholarly-research-with-multi-media-data-in-a-sustainable-infrastructure/) – DH2018. Presented at the Digital Humanities 2018, Mexico.
+Ordelman, R., Martínez Ortíz, C., Melgar Estrada, L., Koolen, M., Blom, J., Melder, W., … Noordegraaf, J. (2018). [Challenges in Enabling Mixed Media Scholarly Research with Multi-media Data in a Sustainable Infrastructure](<https://www.zotero.org/groups/2288915/clariah_media_suite_research_and_dissemination_outputs/items/itemKey/W24JWN5W/order/title/sort/asc>) – DH2018. Presented at the Digital Humanities 2018, Mexico.
 
 
 
