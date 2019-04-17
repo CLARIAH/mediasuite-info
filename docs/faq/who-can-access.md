@@ -12,8 +12,10 @@ Limited access to the Media Suite can occur when:
 - **When you don't have a Dutch institutional affiliation**: This happens when you find the institution in the SURFconext list, but you don't have valid credentials to log in. In Version 3, it is currently impossible to use the Media Suite without institutional credentials. We are working towards a  solution for this situation  in future versions.
 - **When a non-Dutch institution wants to have access to the Media Suite**: This is impossible in Media Suite version 3. A possible solution may be to ask a Dutch host institution listed in the SURFConext institutions to create a temporary institutional account.
 
+***Update April 5, 2019***: in CLARIAH Plus we are working towards facilitating the authentication procedure  via CLARIN-EU, which means that all CLARIN member institutes in Europe will get access.
+
 See also: [How to log in](http://mediasuite.clariah.nl/documentation/howtos/login)
 
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit by Kaspar Beelen: October 2, 2018)*
+*(Last edit: April 17, 2019)*
