@@ -7,7 +7,7 @@ Here we list some reported problems by users of the Media Suite, and their solut
 
 ## Playout not working
 
-*Please remember to read also the [FAQ](http://mediasuite.clariah.nl/documentation/faq/howto-play-view) about which sources can be viewed/played via the Media Suite.*
+*Please remember to read also the [FAQ](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>) about which sources can be viewed/played via the Media Suite.*
 
 This happens if you are logged into the Media Suite and an audio-visual resource from the Sound and Vision collection is supposed to play, i.e., you get a player window, but the resource does not play, i.e., if you get something like this):
 

@@ -3,7 +3,7 @@ Tools
 
 The CLARIAH [Media Suite's data](http://mediasuite.clariah.nl/documentation/data) can be explored, searched, bookmarked, and analysed (annotated) using the Media Suite's tools. These tools have been designed with the aim to support scholars in the main steps of their research process. 
 
-Read more about the How-Tos of the Media Suite's data in our [data documentation pages](http://mediasuite.clariah.nl/documentation/data), where you will find information about:
+Read more about the How-Tos of the Media Suite's data in our [data documentation pages](<http://mediasuite.clariah.nl/documentation/howtos/data>). Here you will find information about how to:
 
 - **[Inspect](<http://mediasuite.clariah.nl/documentation/howtos/collection-inspector>)**: inspecting the metadata fields per collection, checking their completeness in general and over time.
 - **[Explore](<http://mediasuite.clariah.nl/documentation/howtos/exploratory-search>)**: browsing the available collections in a serendipitious fashion (*Note: in Version 4, this tool integrates the available data only partially*).

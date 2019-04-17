@@ -25,7 +25,7 @@ The Data Enrichment API is not fully implemented yet (thus, it is not shown in t
 - notebook --------[get job/enrichment output]----> enrichment API
 - the results of the enrichment can be put in in the annotation API, or directly in an index for the search/collection API.
 
-*Note*: The APIs can only be used with our [Jupyter notebooks](http://mediasuite.clariah.nl/documentation/workspace/jupyter-notebooks) service at this moment. Please use our [Contact](http://mediasuite.clariah.nl/contact) options for more information.
+*Note*: The APIs can only be used with our [Jupyter notebooks](<http://mediasuite.clariah.nl/documentation/howtos/jupyter-notebooks>) service at this moment. Please use our [Contact](http://mediasuite.clariah.nl/contact) options for more information.
 
 
 
