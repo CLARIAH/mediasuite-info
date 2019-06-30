@@ -5,8 +5,8 @@ In this help menu you will learn How To:
 - [Use the Search tool (Screencast)](#screencast)
 - [Know which data is used by the Search tool](#data)
 - [Use search expressions (Boolean operators)](#search-boolean)
-- [Search per field (syntax)](#search-syntax)
-- [Search per field (field cluster selector)](#field-cluster)
+- [Search layers (predetermined aggregations)](#search-layers)
+- [Search per field(s) (field cluster selector)](#field-cluster)
 - [Filtering per date](#date-filter)
 - [Understand time line charts](#timeline-charts)
 - [Filter using facets](#facets)
@@ -20,7 +20,6 @@ In this help menu you will learn How To:
 ### <a name="screencast"></a>Use the Search tool
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cA7c53e-MAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
 
 
@@ -90,22 +89,30 @@ At this moment (version 4) the search API detects when a user does a boolean/wil
 
 Note: Future work includes supporting proximity parameters.
 
-### <a name="search-syntax"></a> Search per field (syntax)
+### <a name="search-layers"></a> Search layers
 
-(Forthcoming)
+<img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/search-layers.png?raw=true" />
+
+To facilitate more precise queries, users can use "search layers," which are aggregations of metadata fields. At this moment (version 4) we support three layers for all collections:
+
+- **All**: searches in all the metadata and automatic enrichments at the time
+- **Archive's metadata**: searches only in the mostly manually generated metadata (archival descriptions and subject/content metadata). These are the common aggregations for all collections:
+  - Title field cluster: when there are different title fields, these have been aggregated and users can search in all of them at once
+  - Description field cluster: searches in all fields (per each collection) which contain descriptions (e.g., summaries, abstracts)
+  - Other clusters: depending on the collection there may be other clusters available (e.g., "Subtitles" for the Sound and Vision audio-visual collection).
+- **Enrichments**: searches in the existing layer(s) of mostly automatic content enrichments (e.g., OCR, or ASR- automatic speech transcripts)
+
+*Tip*: To see which fields have been aggregated in each cluster, hover over the field cluster.
 
 ### <a name="field-cluster"></a> Search per field (field cluster selector)
 
-Users can determine in which group of fields they want the system to look for their query expression.
+Users can determine in which field or group of fields they want to search for their query expression. For example, a user may want to search for a specific character's name (e.g., Mies Bouwman). In that case:
 
-* At this moment (version 4) we support:
+* Use the "Custom field cluster" button that appears in the drop-down menu of the Search layers (image above)
+* Search for the field of interest (e.g., "cast"). If there are many fields which include cast information, they can be aggregated in a "field cluster." Assign a name to the cluster to create custom aggregations
+* Now you can search in the cluster as if it was one of the Search layers described above.
 
-  *   All fields: searches in all the metadata
-  *   Title field cluster: searches in all fields(per each collection) which contain titles
-  *   Description field cluster: searches in all fields (per each collection) which contain descriptions (e.g., summaries, abstracts)
-  *   Other clusters: depending on the collection there may be other clusters available (e.g., "Subtitles" for the Sound and Vision audio-visual collection).
-  *   The list of fields that is aggregated in each cluster is included in a tool-tip
-  *   Creating custom aggregations.
+*Tip*: To see the list of metadata fields per collection, as well as their definitions, use the Collection Inspector tool.
 
 
 ### <a name="date-filter"></a> Filtering per date
