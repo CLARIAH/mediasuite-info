@@ -106,6 +106,8 @@ To facilitate more precise queries, users can use "search layers," which are agg
 
 ### <a name="field-cluster"></a> Search per field (field cluster selector)
 
+<img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/search-field-clusters.png?raw=true" />
+
 Users can determine in which field or group of fields they want to search for their query expression. For example, a user may want to search for a specific character's name (e.g., Mies Bouwman). In that case:
 
 * Use the "Custom field cluster" button that appears in the drop-down menu of the Search layers (image above)
@@ -119,12 +121,18 @@ Users can determine in which field or group of fields they want to search for th
 
 You can limit your query to a specific period of time. It is important to keep in mind that collections often include several fields of the type "Date". To see the metadata fields that are of the type "Date", you can use the "Inspect" tool and consult the metadata dictionaries.
 
-- In the date filter, you first have to select which date field you would like to use for filtering, and then enter the date range. For example, for The Sound and Vision audiovisual collection, we recommend to select the field "programsortdate (in: publications)" (which is the equivalent to the "broadcasting date"). You can check how complete this metadata field has been over time by using the Inspector tool.
-- If you don't select a date field, you won't see the visualization of your results based on time.
+- In the date filter, you first have to select which date field you would like to use for filtering, and then enter the date range. For example, for The Sound and Vision audiovisual collection, we recommend to select the field "Date:sorting (preferred)" (which is the closest equivalent to the "broadcasting date"). You can check how complete this metadata field has been over time by using the Inspector tool.
 
 ### <a name="timeline-charts"></a>Understand time line charts
 
-(Forthcoming)
+The timeline visualisation shows a histogram or a line chart with the amount of documents (relative or absolute) which match your query. 
+
+- To generate a timeline visualization of your results based on time, first select a date field (see item before.
+- Mouse-overs show the year and the number of results per year.
+- “1” means one document (i.e., one television programme, one newspaper article, one oral history interview). 
+- The relative frequencies (percentages) are calculated by dividing the number of documents with hits by the total number of documents within one year (or week, day, depending of the ‘bucket’).
+- This normalization helps to compare result numbers of different collections.
+- Please note that each record possibly can have multiple occurrences of the selected date field, making it possible that there are more dates found that the number of search results.
 
 ### <a name="facets"></a> Filter using facets
 
