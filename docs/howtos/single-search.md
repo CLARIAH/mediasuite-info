@@ -131,7 +131,7 @@ The timeline visualisation shows a histogram or a line chart with the amount of 
 - Please note that the statistical unit (what is being counted) are documents (programs, articles, interviews), and not the number of occurrences of the term within a document; that is: “1” means one document (i.e., one television programme, one newspaper article, one oral history interview). 
 - The relative frequencies (percentages) are calculated by dividing the number of documents with hits by the total number of documents within one year (or week, day, depending of the ‘bucket’).
 - This normalization helps to compare result numbers of different collections.
-- Please also note that each record possibly can have multiple occurrences of the selected date field (e.g., a rebroadcast), making it possible that there are more dates found that the number of search results.
+- Please also note that each record possibly can have multiple occurrences of the selected date field (this happens clearly in the audio-visual collections of The Netherlands Institute for Sound and Vision, e.g., a rebroadcast), making it possible that there are more dates found that the number of search results.
 
 ### <a name="facets"></a> Filter using facets
 
