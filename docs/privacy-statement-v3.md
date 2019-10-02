@@ -24,7 +24,7 @@ Wij verwerken daarnaast persoonsgegevens van de personen die in het archiefmater
 
 ### Hoe verkrijgen wij persoonsgegevens?
 
-De persoonsgegevens die we van onze websitebezoekers verwerken verkrijgen wij van onze identity providers als je inlogt op onze website. Een lijst van alle identity providers vind je [hier](http://mediasuite.clariah.nl/saml/login/).
+De persoonsgegevens die we van onze websitebezoekers verwerken verkrijgen wij van onze identity providers als je inlogt op onze website. Een lijst van alle identity providers vind je [hier](https://mediasuite.clariah.nl/documentation/identity-providers).
 
 Het audiovisuele materiaal dat wij op onze website aanbieden is afkomstig uit ons media-archief en media-archieven van derden (waaronder de Koninklijke Bibliotheek, Eye Film Instituut en DANS). Zie voor meer informatie over het verwerken van persoonsgegevens met betrekking tot ons media-archief het privacy statement hierover. 
 
