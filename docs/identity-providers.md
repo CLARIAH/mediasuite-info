@@ -1,4 +1,4 @@
-*   ![](https://static.surfconext.nl/logos/idp/astron.gif){#provider-img .image-class}
+*   ![](https://static.surfconext.nl/logos/idp/astron.gif)
 
     #### ASTRON
 
