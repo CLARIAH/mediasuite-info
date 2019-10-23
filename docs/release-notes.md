@@ -9,3 +9,4 @@ Release notes
 - [Version 3.2 (05-03-2019)](http://mediasuite-test.rdlabs.beeldengeluid.nl/documentation/release-notes/v3-2)
 - [Version 4 (03-04-2019)](http://mediasuite-test.rdlabs.beeldengeluid.nl/documentation/release-notes/v4)
 - [Version 4.3 (31-07-2019)](http://mediasuite-test.rdlabs.beeldengeluid.nl/documentation/release-notes/v4-3)
+- [Version 4.3 (23-10-2019)](http://mediasuite-test.rdlabs.beeldengeluid.nl/documentation/release-notes/v4-4)
