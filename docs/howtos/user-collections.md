@@ -3,7 +3,7 @@ User Collections
 
 The User Collections are your own media files.
 
-NOTE: From version 3, the functionality for uploading users' own Youtube media to their Workspace user projects is available. But, this functionality is not fully working. This is because some back-end work with the playout of sources, which depends on the general CLARIAH infrastructure. The team is working on providing this service properly, and it will be available in the coming months.
+**NOTE**: From version 3, the functionality for uploading users' own Youtube media to their Workspace user projects is available. But, this functionality is not fully working. This is because some back-end work with the playout of sources, which depends on the general CLARIAH infrastructure. The team is working on providing this service properly, and it will be available in the coming months (hopefully at the end of 2019 or beginning of 2020).
 
 When it is ready, this will be the basic functionality:
 
