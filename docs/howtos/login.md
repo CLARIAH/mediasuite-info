@@ -19,7 +19,6 @@ To log in via SURFConext, please follow these steps:
 >
 > <iframe width="560" height="315" src="https://www.youtube.com/embed/2z0xUblnZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 >
-> 
 
 Limited access to the Media Suite can occur when:
 
@@ -29,4 +28,4 @@ Limited access to the Media Suite can occur when:
 
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit by Kaspar Beelen: October 2, 2018)*
+*(Last update: October 2, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

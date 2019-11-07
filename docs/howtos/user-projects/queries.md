@@ -33,4 +33,4 @@ You can then either copy the parameters (e.g., to use it in a publication in whi
 
 
 
-*(Last update: November 5, 2018)*
+*(Last update: November 5, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

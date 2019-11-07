@@ -6,4 +6,4 @@ All tools and components developed within CLARIAH are open source, the Media Sui
 
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit by Kaspar Beelen: October 2, 2018)*
+*(Last update: October 2, 2018)* *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

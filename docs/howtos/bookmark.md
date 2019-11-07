@@ -16,4 +16,4 @@ Based on the study of scholarly needs done in the requirement analysis phase of 
 
 
 
-*(Written by Liliana Melgar. Last edit: October 2, 2018)*
+*(Last update: October 2, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

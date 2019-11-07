@@ -39,5 +39,5 @@ This type of automatic enrichment is available for these collections:
 
 
 
-   *(Last edit: April 4, 2019)*
+   *(Last update: April 4, 2019)*. *If you have any questions, please [contact us.]( https://mediasuite.clariah.nl/contact )*
 

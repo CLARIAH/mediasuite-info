@@ -24,4 +24,4 @@ Besides, we produce ***Collection notebooks*** to create overviews of the Media 
 
 
 
-​																	*(Last update: March 18, 2019)*
+*(Last update: March 18, 2019)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

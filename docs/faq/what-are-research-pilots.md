@@ -11,4 +11,4 @@ The[ CLARIAH Research pilot projects](https://clariah.nl/projecten/research-pilo
 
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: October 2, 2018)*
+*(Last update: October 2, 2018)* *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

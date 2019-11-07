@@ -22,4 +22,8 @@ See also:
 - [Quick start guide to the Media Suite with emphasis on the Collection Inspector.](https://www.slideshare.net/clariah_mediasuite/doing-transparent-research-with-the-media-suite-quick-start-guide-to-the-media-suite-with-emphasis-on-the-collection-inspector-tool/clariah_mediasuite/doing-transparent-research-with-the-media-suite-quick-start-guide-to-the-media-suite-with-emphasis-on-the-collection-inspector-tool) Handout used at the AVinDH workshop at DH2019.
 
   
+  
+  *(Last update: July 2019)*. *More up to date information will be adding soon. If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact )*
+  
+  
 

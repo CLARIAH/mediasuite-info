@@ -12,3 +12,7 @@ In the Media Suite, for instance, a researcher can create a user project for a t
 
 See also the sections on [how to work with User projects](http://mediasuite.clariah.nl/documentation/howtos/user-projects).
 
+
+
+*If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
+

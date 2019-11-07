@@ -18,4 +18,4 @@ See also: [How to log in](http://mediasuite.clariah.nl/documentation/howtos/logi
 
 
 
-*(Last edit: April 17, 2019)*
+*(Last edit: April 17, 2019)* *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

@@ -14,7 +14,6 @@ Read more about the How-Tos of the Media Suite's data in our [data documentation
 See also the most frequently asked questions:
 
 - [How does the Media Suite work?](http://mediasuite.clariah.nl/documentation/faq/how-it-works) 
-
 - [How is the Media Suite being built?](http://mediasuite.clariah.nl/documentation/faq/how-is-built)
 
-  ​															*(Last update: November 30, 2018)*
+*(Last update: November 30, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

@@ -11,3 +11,7 @@ The collections' metadata, and the content itself (media objects) cannot be expo
 
 The resulting file from exporting the user data mentioned above is a JSON file.
 
+
+
+*(Last update: July, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
+

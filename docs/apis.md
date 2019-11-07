@@ -29,4 +29,4 @@ The Data Enrichment API is not fully implemented yet (thus, it is not shown in t
 
 
 
-   *(Last edit: November 5, 2018)*
+   *(Last edit: November 5, 2018)* *More up to date information will be adding soon. If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact )*

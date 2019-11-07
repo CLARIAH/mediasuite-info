@@ -22,7 +22,6 @@ In this help menu you will learn How To:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cA7c53e-MAQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 ### <a name="data"></a>Know which data used by the Search tool
 
 This tool uses all the data and enrichments available via the Media Suite. See [Data page](http://mediasuite.clariah.nl/data) for more information.
@@ -172,5 +171,5 @@ The timeline visualisation shows a histogram or a line chart with the amount of 
 
 > **Please use our [Public forum](https://gitter.im/CLARIAH-media-studies/Lobby) if you miss content in this page or if you find any issues while using the Media Suite.**
 
-*(Last update: March 7, 2019)*
+*(Last update: March 7, 2019)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
 

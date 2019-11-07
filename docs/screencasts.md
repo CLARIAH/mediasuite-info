@@ -12,6 +12,5 @@ The screencasts are also available in the different documentation pages.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2z0xUblnZwo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
-​																*(Last update: November 30, 2018)*
+*(Last update: November 30, 2018)* *More up to date information will be adding soon. If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact )*
 

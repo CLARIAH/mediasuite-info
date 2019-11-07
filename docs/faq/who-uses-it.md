@@ -31,4 +31,4 @@ These are some commens about the media suite by its users:
 
 ​	
 
-*(Last edit: March 7, 2019)*
+*(Last edit: March 7, 2019)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*

@@ -18,4 +18,4 @@ Note: Registering your own personal datasets is not supported yet. But you can m
 
 
 
-*(Last edit: March 7, 2019)*
+*(Last update: March 7, 2019)* *If you have any questions, please [contact us.]( https://mediasuite.clariah.nl/contact )*

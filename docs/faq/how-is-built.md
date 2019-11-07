@@ -17,4 +17,4 @@ Ordelman, R., Martínez Ortíz, C., Melgar Estrada, L., Koolen, M., Blom, J., Me
 
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit by Kaspar Beelen: October 2, 2018)*
+*(Last update: October 2, 2018)* *If you have any questions, please [contact us.]( https://mediasuite.clariah.nl/contact )*

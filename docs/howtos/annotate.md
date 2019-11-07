@@ -33,3 +33,8 @@ The control buttons are still under development, but the hotkeys allow you to cr
 - SHIFT+rechts (select the next segment)
 - SHIFT+links (select the previous segment)
 - SHIFT+a (add new annotation to the resource (as a whole))
+
+
+
+*(Last update: July, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
+

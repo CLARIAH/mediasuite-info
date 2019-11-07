@@ -11,4 +11,4 @@ If you prefer, you can also [contact us](http://mediasuite.clariah.nl/contact) v
 
 
 
-​															   *(Last edit: November 30, 2018)*
+*(Last edit: November 30, 2018)* *More up to date information will be adding soon. If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact )*

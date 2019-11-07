@@ -12,4 +12,4 @@ The Media Suite provides access to data from different institutions ([data provi
 
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman and Kaspar Beelen. Last edit: October 2, 2018)*
+*(Last update: October 2, 2018)* *If you have any questions, please [contact us.]( https://mediasuite.clariah.nl/contact )*

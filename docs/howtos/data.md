@@ -14,3 +14,7 @@ See also the most frequently asked questions:
 - [How does the Media Suite make the data available?](http://mediasuite.clariah.nl/documentation/faq/how-data-is-made-available)
 - [Can I play/view all the sources that I find via the Media Suite?](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>)
 
+
+
+*(Last update: July, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
+

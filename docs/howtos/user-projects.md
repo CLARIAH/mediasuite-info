@@ -13,3 +13,5 @@ In the page you are in now you see the list of your [user project](http://medias
 - A list of projects with their name, description, number of bookmarks (items in your corpus), project owner, privacy level (in version 3 all projects are "private" by default), your access rights (in version 3 the user is "administrator" for all projects created by her/him), and the creation date.
 - You can open a user project, delete it, or export it.
 
+*(Last update: July, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
+

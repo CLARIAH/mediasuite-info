@@ -21,3 +21,7 @@ If you have further questions, you can chat with us in the [Gitter chat rooms](h
 - [Annotate](<http://mediasuite.clariah.nl/documentation/howtos/annotate>)
 - [Conduct advanced analyses with Jupyter notebooks](<http://mediasuite.clariah.nl/documentation/howtos/jupyter-notebooks>)
 - [Work with your own collections](<http://mediasuite.clariah.nl/documentation/howtos/user-collections>) (in progress)
+
+
+
+*More up to date information will be adding soon. If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact )*

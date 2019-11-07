@@ -12,4 +12,4 @@ To solve this challenge, we are currently working on:
 - Experimenting with [Jupyter Notebooks](<http://mediasuite.clariah.nl/documentation/howtos/jupyter-notebooks>) adding specific functions for collection transparency and quality analysis.
 
 
-*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: October 2, 2018)*
+*(Written by Liliana Melgar, revised by Roeland Ordelman. Last edit: October 2, 2018)* *More up to date information will be adding soon. If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact )*

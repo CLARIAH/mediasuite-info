@@ -13,7 +13,7 @@ The Workspace is an experimental enviroment for users of the Media Suite to work
 
 
 
- *(Last update: November 5, 2018)*
+ *(Last update: November 5, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
 
 
 

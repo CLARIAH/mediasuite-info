@@ -53,3 +53,8 @@ The control buttons are still under development, but the hotkeys allow you to cr
 - SHIFT+n (new segment)
 
 You can find more information about the annotation tool and other keyboard shorcuts [here](http://mediasuite.clariah.nl/documentation/tools/annotate).
+
+
+
+*(Last update: July, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
+

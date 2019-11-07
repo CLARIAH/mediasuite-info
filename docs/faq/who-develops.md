@@ -59,5 +59,5 @@ The Media Suite is part of the[ CLARIAH infrastructure](https://clariah.nl/en/).
 
 
 
-*(Last edit: January 31, 2019)*
+*(Last edit: January 31, 2019)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
 
