@@ -245,9 +245,13 @@
                 "title": "Version 4.3",
                 "content": "release-notes/v4-3"
     		},
-     		{
+    		{
                 "title": "Version 4.4",
                 "content": "release-notes/v4-4"
+    		},
+     		{
+                "title": "Version 4.7",
+                "content": "release-notes/v4-7"
     }
     ]
     },
