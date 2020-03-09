@@ -72,31 +72,31 @@
       		{
       			"title": "Access content",
           		"content": "howtos/access-content"
-        	}, 
+        	},
         	{
           		"title": "Annotate",
           		"content": "howtos/annotate"
-        	}, 
+        	},
         	{
           		"title": "Bookmark (create corpus)",
 	          	"content": "howtos/bookmark"
-	        }, 
+	        },
 	        {
 	          	"title": "Compare queries",
 	          	"content": "howtos/query-comparison"
-	        }, 
+	        },
 	        {
 	          	"title": "Explore and discover (beta!)",
 	          	"content": "howtos/exploratory-search"
-	        }, 
+	        },
 	        {
 	          	"title": "Export",
 	          	"content": "howtos/export"
-	        }, 
+	        },
 	        {
 	          	"title": "Inspect metadata quality",
 	          	"content": "howtos/collection-inspector"
-	        }, 
+	        },
 	        {
 	          	"title": "Log in",
 	          	"content": "howtos/login"
@@ -108,11 +108,11 @@
 	        {
 	          	"title": "Save queries",
 	          	"content": "howtos/save-queries"
-	        }, 
+	        },
 	        {
 	          "title": "Search and select corpus",
 	          "content": "howtos/single-search"
-	        }, 
+	        },
 	        {
 	          	"title": "Select collections",
 	          	"content": "howtos/select-collections"
@@ -131,7 +131,7 @@
     		},
 	        {
 	        	"title": "Work with the Workspace's user projects",
-          		"content": "howtos/user-projects",   
+          		"content": "howtos/user-projects",
           		"children":[
           			{
           				"title": "Create",
@@ -252,7 +252,11 @@
      		{
                 "title": "Version 4.7",
                 "content": "release-notes/v4-7"
-    }
+        },
+        {
+                "title": "Version 4.9",
+                "content": "release-notes/v4-9"
+        }
     ]
     },
     {
@@ -322,7 +326,7 @@
 		        "content": "glossary/verteld-verleden"
 		    }
 		]
-    },	  
+    },
     {
     	"title": "Terms of use and privacy",
     	"content": "privacy-statement"
