@@ -1,14 +1,16 @@
-Stay connected!
+Media Suite Support & Discussions
 ---
 
-The CLARIAH Media Suite is developed together with researchers and for researchers. Do you have a question about how the Media Suite works? Have you noticed a bug? Do you have suggestions for improving the Media Suite? For these questions or any other remarks we share a common Forum via the Gitter Chat rooms.
+**Public Forum**
 
-> **You can chat with the Media Suite users and developers via the [Public forum](https://gitter.im/CLARIAH-media-studies/Lobby) in Gitter.**
+You can contact the CLARIAH Media Suite team via a [public forum](https://gitter.im/beeldengeluid/mediasuite-forum) for:
+- questions you cannot find an answer to in the documentation (please read it, as developers say "RTFM")
+- problems you cannot solve using the documentation 
+- bug reports
+- suggestions for new features
+- discussions on future directions ;)
 
-Our forum uses [Gitter](https://en.wikipedia.org/wiki/Gitter), an open source instant messaging and chat room system. To start chatting, you would need to have either a Twitter account or a Github account. 
+Note that the forum uses [Gitter](https://en.wikipedia.org/wiki/Gitter), an open source instant messaging and chat room system. To start chatting, you would need to have either a Twitter or Github account. 
 
-If you prefer, you can also [contact us](http://mediasuite.clariah.nl/contact) via other channels.
-
-
-
-*(Last edit: November 30, 2018)* *More up to date information will be adding soon. If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact )*
+**Project Forum**
+The Media Suite is developed **with** researchers **for** researchers in the CLARIAH Project, work package 5. For questions or remarks we share a project-internal Forum via the [Project forum](https://gitter.im/CLARIAH-media-studies/Lobby) in Gitter.
