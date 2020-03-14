@@ -5,7 +5,7 @@ Media Suite Support & Discussions
 
 You can contact the CLARIAH Media Suite team for:
 
-- [questions you cannot find an answer to or problems you cannot solve](https://gitter.im/beeldengeluid/mediasuite-qaa)
+- [questions you cannot find an answer to or problems you cannot solve (please read the documentation first)](https://gitter.im/beeldengeluid/mediasuite-qaa)
 
 - [bug reports](https://gitter.im/beeldengeluid/mediasuite-bugreports)
 
