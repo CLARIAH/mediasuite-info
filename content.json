@@ -3,7 +3,11 @@
 		"title": "Introduction",
 		"content": "introduction"
 	},
-    {
+	{
+    	"title": "Quick start guide",
+        "content": "quick-start-guide"
+  	},
+    	{
     	"title": "FAQ",
     	"content": "faq",
     	"children": [
@@ -61,10 +65,6 @@
 		    }
 		]
     },
-    {
-    	"title": "Quick start guide",
-        "content": "quick-start-guide"
-  	},
   	{
       	"title": "HowTos",
       	"content": "howtos",
