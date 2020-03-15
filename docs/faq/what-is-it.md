@@ -36,9 +36,3 @@ As a research environment, the CLARIAH Media Suite aims to support scholars in a
 
 The CLARIAH Media Suite offers a “virtual work space” to its users. It allows researchers to store bookmarks, annotations, saved queries, personal collections, or automatic enrichments. The workspace thus provides researchers with novel ways for making transparent and managing their research process. 
 
-## Publications on the Media Suite
-
-> **[Here you can find the publications](https://www.zotero.org/groups/2288915/clariah_media_suite_research_and_dissemination_outputs) related to the co-development of the Media Suite.**
->
-> If you use the Media Suite and would like to cite it, please use the version number and refer to this paper: Ordelman, R., Melgar Estrada, L., Martínez Ortiz, C., & Noordegraaf, J. (2018). Media Suite: Unlocking Archives for Mixed Media Scholarly Research. *CLARIN Annual Conference*. Presented at the Pisa, Italy. [link](http://www.ep.liu.se/ecp/article.asp?issue=159&article=014&volume=)
-
