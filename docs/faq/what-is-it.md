@@ -39,5 +39,3 @@ The CLARIAH Media Suite offers a “virtual work space” to its users. It allow
 >
 > If you use the Media Suite and would like to cite it, please use the version number and refer to this paper: Ordelman, R., Melgar Estrada, L., Martínez Ortiz, C., & Noordegraaf, J. (2018). Media Suite: Unlocking Archives for Mixed Media Scholarly Research. *CLARIN Annual Conference*. Presented at the Pisa, Italy. Retrieved from [link](http://www.ep.liu.se/ecp/article.asp?issue=159&article=014&volume=)
 
-
-*(Last update: April 2019)* *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
