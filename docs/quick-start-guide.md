@@ -1,9 +1,9 @@
 Quick Start Guide
 ===
 
-This tutorial shows you how to use the CLARIAH Media Suite. Before starting the tutorial, we recommend you to read: [What is the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-is-it)
+This tutorial shows you how to use the CLARIAH Media Suite. Before starting the tutorial, we may want to read: [What is the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-is-it)
 
-To get started using the Media Suite, we recommend to do the following:
+To get started using the Media Suite, do the following:
 
 - [Log into the Media Suite](<http://mediasuite.clariah.nl/documentation/howtos/login>)
 - [Create a "user project" in your Workspace](<http://mediasuite.clariah.nl/documentation/howtos/user-projects>)
