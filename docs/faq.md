@@ -1,4 +1,4 @@
 FAQ
 ---
 
-Here you will find frequently asked questions by the Media Suite users. If you have further questions, please use our Gitter chat rooms (see our [Contact information](http://mediasuite.clariah.nl/contact)).
+We collected answers to frequently asked questions in this FAQ. If you have further questions, please use our [Fora for Support & Feedback](https://mediasuite.clariah.nl/documentation/forum).
