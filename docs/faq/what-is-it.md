@@ -12,7 +12,7 @@ The Media Suite is in a constant process of co-development with its users and, i
 
 ## Building blocks
 
-<img src="https://raw.githubusercontent.com/CLARIAH/mediasuite-info/master/docs/_images/media-suite-illustration.png" />
+<img src="https://raw.githubusercontent.com/CLARIAH/mediasuite-info/master/docs/_images/media-suite-illustration.png" width=300/>
 
 The Media Suite can be decomposed into three building blocks: **data**, **tools** to work with the data, and a **workspace** to store your work with the data.
 
@@ -21,8 +21,11 @@ The Media Suite can be decomposed into three building blocks: **data**, **tools*
 Via the CLARIAH infrastructure, the Media Suite provides access to data collections in Dutch archives (among others: The Netherlands Institute for Sound and Vision, EYE Film Museum collections, DANS oral history interview collections, collections from the Open Images Project). Typically, data collections are registered in a registry that allows the infastructure to either access collections directly or use some form of data harvesting to enables access.
 
 **Read more on data here**:
+
 - [What collections/data are available via the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-data)
+
 - [How does the Media Suite make the data available?](http://mediasuite.clariah.nl/documentation/faq/how-data-is-made-available)
+
 - [Can I play/view all the sources that I find via the Media Suite?](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>)
 
 ### Tools
@@ -37,5 +40,5 @@ The CLARIAH Media Suite offers a “virtual work space” to its users. It allow
 
 > **[Here you can find the publications](https://www.zotero.org/groups/2288915/clariah_media_suite_research_and_dissemination_outputs) related to the co-development of the Media Suite.**
 >
-> If you use the Media Suite and would like to cite it, please use the version number and refer to this paper: Ordelman, R., Melgar Estrada, L., Martínez Ortiz, C., & Noordegraaf, J. (2018). Media Suite: Unlocking Archives for Mixed Media Scholarly Research. *CLARIN Annual Conference*. Presented at the Pisa, Italy. Retrieved from [link](http://www.ep.liu.se/ecp/article.asp?issue=159&article=014&volume=)
+> If you use the Media Suite and would like to cite it, please use the version number and refer to this paper: Ordelman, R., Melgar Estrada, L., Martínez Ortiz, C., & Noordegraaf, J. (2018). Media Suite: Unlocking Archives for Mixed Media Scholarly Research. *CLARIN Annual Conference*. Presented at the Pisa, Italy. [link](http://www.ep.liu.se/ecp/article.asp?issue=159&article=014&volume=)
 
