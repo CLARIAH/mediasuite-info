@@ -1,10 +1,18 @@
 ## How to Log in
 
-The CLARIAH Media Suite requires authentication: users have to log in to access most of its services and data. Because of copyright protection, video (or audio) play-out  is often restricted to authenticated users. Personal login also allows users to store their collections and annotations, while maintaining their privacy.
+### Why log in?
 
-CLARIAH outsources authentication to [SurfConnext](https://www.surf.nl/en/services-and-products/surfconext/index.html), a service offered by SURF, an  ICT organisation for Dutch education and research. Students, teachers and researchers with an institutional account can log in to the Media Suite via SURFConext. 
+In order to be able to use **all features** of the CLARIAH Media Suite, you need to log in. After log in, you will be able to use the workspace to create projects, make annotations, store and share information. Also, you will be able to access data collections that are only available for researchers for reasons of copyright (only research use is permitted) or privacy (see our post on [research data management](https://mediasuite.clariah.nl/documentation/glossary/rdm)). 
 
-**Note**: CLARIAH aims  to provide an open service: while currently (in Version 3), authentication via SURFConext is still required, future versions will  partly remove  this restriction as to facilitate use of the  tools on open data collections.  No login will be needed when appling the tools to the open access data sets. Read the [FAQ about which collections can be viewed/played](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>).
+Without logging in, you can still search and browse collections that have **no copyright or privacy restrictions** and are publically availabe.  
+
+### Who can log in?
+
+Only **researchers** that are working at secondary vocational-, higher education and research institutions in the Netherlands can log in using the employee acount of their institution. The CLARIAH infastructure can authenticate you using the **SURF federated identity management service** for secondary vocational-, higher education and research in the Netherlands that connects these institutions with CLARIAH. [Here](https://support.surfconext.nl/stats/idplist.html) is a list of institutions (called "IdP" - Identity provider) that are part of this federation. Your organisation should be on the list if you want to log in as a researcher.
+
+There is one exception to the rule that only researchers can log in and that is for **collection owners**. They can log into the Media Suite to access their own collections and help us with the maintenance and improvement of the data. 
+
+### How to log in
 
 To log in via SURFConext, please follow these steps:
 
@@ -26,6 +34,3 @@ Limited access to the Media Suite can occur when:
 - **When you don't have a Dutch institutional affiliation**: This happens when you find the institution in the SURFconext list, but you don't have valid credentials to log in. In Version 3, it is currently impossible to use the Media Suite without institutional credentials. We are working towards a  solution for this situation  in future versions.
 - **When a non-Dutch institution wants to have access to the Media Suite**: This is impossible in Media Suite version 3. A possible solution may be to ask a Dutch host institution listed in the SURFConext institutions to create a temporary institutional account.
 
-
-
-*(Last update: October 2, 2018)*. *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
