@@ -314,6 +314,10 @@
 		        "content": "glossary/oaipmh"
 		    },
 		    {
+		        "title": "Research Data Management",
+		        "content": "glossary/rdm"
+		    },
+		    {
 		        "title": "Transcription",
 		        "content": "glossary/transcription"
 		    },
