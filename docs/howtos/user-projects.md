@@ -8,8 +8,9 @@ The Workspace supports the following functions:
 
 - Adding personal collections to the Workspace to apply Media Suite functions such as search and annotation 
 
-- Programming with data using Jupyter Notebooks
+- Programming with data using Jupyter Notebooks (only limitedly available 
 
+In the Figure below, an overview of these functions is presented:
 
  <img src="https://github.com/CLARIAH/mediasuite-info/blob/master/docs/_images/workspace.jpg?raw=true" width="600px" />
 
