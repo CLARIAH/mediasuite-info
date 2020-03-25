@@ -261,7 +261,7 @@
                 "title": "Version 4.9",
                 "content": "release-notes/v4-9"
         },
-		}
+		{	
                 "title": "Version 4.10",
                 "content": "release-notes/v4-10"
         }
