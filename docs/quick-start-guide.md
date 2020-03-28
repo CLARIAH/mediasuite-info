@@ -1,7 +1,7 @@
 Quick Start Guide
 ===
 
-This tutorial shows you how to use the CLARIAH Media Suite. Before starting the tutorial, we may want to read: [What is the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-is-it)
+This tutorial shows you how to use the CLARIAH Media Suite. Before starting the tutorial, you may want to read this: [What is the Media Suite?](http://mediasuite.clariah.nl/documentation/faq/what-is-it)
 
 To get started using the Media Suite, do the following:
 
@@ -14,12 +14,8 @@ To get started using the Media Suite, do the following:
 - [Annotate your items](<http://mediasuite.clariah.nl/documentation/howtos/annotate>)
 
 
-**See also:** 
+**See also:**
 
 - [Quick start guide to the Media Suite](https://www.slideshare.net/clariah_mediasuite/hands-on-workshop-with-the-clariah-media-suite-introduction-to-television-history-online). Handout used at an introductory course to television history at Utrecht University (May, 2019)
 
 - [Quick start guide to the Media Suite with emphasis on the Collection Inspector.](https://www.slideshare.net/clariah_mediasuite/doing-transparent-research-with-the-media-suite-quick-start-guide-to-the-media-suite-with-emphasis-on-the-collection-inspector-tool/clariah_mediasuite/doing-transparent-research-with-the-media-suite-quick-start-guide-to-the-media-suite-with-emphasis-on-the-collection-inspector-tool) Handout used at the AVinDH workshop at DH2019.
-
-  
-  
-
