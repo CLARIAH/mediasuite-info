@@ -199,21 +199,7 @@
     	"title": "Support & Feedback",
         "content": "forum"
     },
-    {
-      	"title": "Example research projects",
-    	"content": "research-projects",
-    	"children": [
-    		{
-    			"title": "Silencing refugees? The depiction of refugee crises in Dutch media",
-    			"content": "research-projects/summer-school-refugee-crisis"
-    		}
-    	]
-    },
-  	{
-        "title": "APIs",
-        "content": "apis"
-    },
-    {
+        {
     	"title": "Release notes",
         "content": "release-notes",
         "children":[
@@ -268,20 +254,6 @@
     ]
     },
     {
-    	"title": "Development roadmap",
-    	"content": "development-roadmap"
-    },
-    {
-    	"title": "Development challenges",
-    	"content": "development-challenges",
-    	"children": [
-    		{
-    			"title": "Metadata transparency",
-    			"content": "development-challenges/metadata-transparency"
-    		}
-    	]
-    },
-    {
     	"title": "GLOSSARY",
     	"content": "glossary",
     	"children": [
@@ -292,18 +264,6 @@
 		    {
 		        "title": "API",
 		        "content": "glossary/api"
-		    },
-		    {
-		        "title": "AVResearcher",
-		        "content": "glossary/avresearcher"
-		    },
-		    {
-		        "title": "CoMeRDa",
-		        "content": "glossary/comerda"
-		    },
-		    {
-		        "title": "DIVE",
-		        "content": "glossary/dive"
 		    },
 		    {
 		        "title": "Elastic search",
