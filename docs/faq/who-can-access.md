@@ -1,10 +1,20 @@
 ## Who can access the Media Suite?
 
-The CLARIAH Media Suite requires authentication: users have to log in to access most of its services and data. Because of copyright protection, video (or audio) play-out  is often restricted to authenticated users. Personal login also allows users to store their collections and annotations, while maintaining their privacy.
+Only **researchers** that are working at secondary vocational-, higher education and research institutions in the Netherlands can log in using the employee account of their institution. The CLARIAH infrastructure can authenticate you using the **SURF federated identity management service** for secondary vocational-, higher education and research in the Netherlands that connects these institutions with CLARIAH. [Here](https://support.surfconext.nl/stats/idplist.html) is a list of institutions (called "IdP" - Identity provider) that are part of this federation. Your organisation should be on the list if you want to log in as a researcher.
 
-CLARIAH outsources authentication to [SurfConnext](https://www.surf.nl/en/services-and-products/surfconext/index.html), a service offered by SURF, an  ICT organisation for Dutch education and research. Students, teachers and researchers with an institutional account can log in to the Media Suite via SURFConext. 
+> There is one exception to the rule that only researchers can log in and that is for **collection owners**. They can log into the Media Suite to access their own collections and help us with the maintenance and improvement of the data.
 
-**Note**: CLARIAH aims  to provide an open service: while currently (in Version 4), authentication via SURFConext is still required, future versions will  partly remove  this restriction as to facilitate use of the  tools on open data collections.  No login will be needed when appling the tools to the open access data sets. Read the [FAQ about which collections can be viewed/played](<http://mediasuite.clariah.nl/documentation/faq/can-play-view>).
+## Why log in?
+
+In order to be able to use **all features** of the CLARIAH Media Suite, you need to log in. After log in, you will be able to use the workspace to create projects, make annotations, store and share information. Also, you will be able to access data collections that are only available for researchers for reasons of copyright (only research use is permitted) or privacy (see our post on [research data management](https://mediasuite.clariah.nl/documentation/glossary/rdm)).
+
+> Without logging in, you can still search and browse collections that have **no copyright or privacy restrictions** and are publicly available. However, you cannot use the 'scholarly features' such as creating projects and making annotations.  
+
+## How do we provide log in functionality?
+
+When you log in, this means that we can '**authenticate**' you, we know who you are in the sense that we know that you are working at a secondary vocational-, higher education or research institution in the Netherlands. Or that you are an employee of an institute that provides data (collection owner). We don't know your name for example. Based on the 'authentication' we can now '**authorise**' you to access collections that are not open access (for copyright or privacy reasons) and only available for research purposes. We currently follow a generic authorisation approach that provides access to all scholars. However, collections exists that require more detailed authorisation protocols, such as excluding students or authorisation for individual scholars. We are working on an authentication & authorisation mechanism that allows both generic and specific protocols.
+
+CLARIAH outsources authentication to [SurfConnext](https://www.surf.nl/en/services-and-products/surfconext/index.html), a service offered by SURF, an  ICT organisation for Dutch education and research. Students, teachers and researchers with an institutional account can log in to the Media Suite via SURFConext.
 
 Limited access to the Media Suite can occur when:
 
@@ -15,7 +25,3 @@ Limited access to the Media Suite can occur when:
 ***Update April 5, 2019***: in CLARIAH Plus we are working towards facilitating the authentication procedure  via CLARIN-EU, which means that all CLARIN member institutes in Europe will get access.
 
 See also: [How to log in](http://mediasuite.clariah.nl/documentation/howtos/login)
-
-
-
-*(Last edit: April 17, 2019)* *If you have any questions, please [contact us]( https://mediasuite.clariah.nl/contact ).*
