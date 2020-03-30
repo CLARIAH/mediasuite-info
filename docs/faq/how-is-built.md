@@ -8,13 +8,7 @@ manipulated. User-friendliness and (meta)data transparency served as the guiding
 The creation of the Media Suite followed a co-development approach: the interface was designed in continuous interaction with users. From the start, scholars have been actively involved in formulating the requirements, and prototyping (or testing) the interface. The CLARIAH project contained broadly two stages:
 
 - In the first stage (from 2015 to 2017), the software engineers and developers with the input from scholars in the CLARIAH team, created the foundations of the infrastructure. The initial functional and data requirements and inspiration came from prototypes created in previous projects: [AVResearcherXL](http://mediasuite.clariah.nl/documentation/glossary/avresearcher), [Verteld Verleden](http://mediasuite.clariah.nl/documentation/glossary/verteld-verleden), [DIVE+](http://mediasuite.clariah.nl/documentation/glossary/dive), [CoMERDa](http://mediasuite.clariah.nl/documentation/glossary/comerda), and [TROVe](http://mediasuite.clariah.nl/documentation/glossary/trove).
-- In the second phase, which started in April 2017, external scholars were involved as co-developers under the framework of the [CLARIAH Research Pilot Projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots). This phase ended in June 2018, concluding with the launching of Version 3, where their input of these pilot projects is clearly reflected.
-- From 2018, the Media Suite will continue to be further developed in the framework of [CLARIAH Plus](https://www.clariah.nl/nieuw/nieuws/clariah-plus-gehonoreerd). Future versions will focus on supporting more advanced mixed-media and audio-visual analysis methods.
+- In the second phase, which started in April 2017, external scholars were involved as co-developers under the framework of the [CLARIAH Research Pilot Projects](http://mediasuite.clariah.nl/documentation/faq/what-are-research-pilots).
+- From 2018, the Media Suite continued to be further developed in the framework of [CLARIAH Plus](https://www.clariah.nl/nieuw/nieuws/clariah-plus-gehonoreerd), focussing on supporting more advanced mixed-media and audio-visual analysis methods.
 
-More information about how the Media Suite has been built is in our publications, added [here](<https://www.zotero.org/groups/2288915/clariah_media_suite_research_and_dissemination_outputs>). See for instance:
-
-Ordelman, R., Martínez Ortíz, C., Melgar Estrada, L., Koolen, M., Blom, J., Melder, W., … Noordegraaf, J. (2018). [Challenges in Enabling Mixed Media Scholarly Research with Multi-media Data in a Sustainable Infrastructure](<https://www.zotero.org/groups/2288915/clariah_media_suite_research_and_dissemination_outputs/items/itemKey/W24JWN5W/order/title/sort/asc>) – DH2018. Presented at the Digital Humanities 2018, Mexico.
-
-
-
-*(Last update: October 2, 2018)* *If you have any questions, please [contact us.]( https://mediasuite.clariah.nl/contact )*
+More information about how the Media Suite has been built is in our publications, added [here](<https://www.zotero.org/groups/2288915/clariah_media_suite_research_and_dissemination_outputs>). 
