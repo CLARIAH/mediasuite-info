@@ -16,4 +16,4 @@ We *bring tools to the data*, because for reasons of copyright or privacy these 
 
 ## Collections in the Media Suite
 
-The Media Suite aggregates metadata from audiovisual collections and related multi-media contextual sources that are maintained at cultural heritage and knowledge institutions in The Netherlands. For detailed information about the collections, see [the Media Suite registration system CKAN](http://mediasuitedata.clariah.nl/).
+The Media Suite aggregates metadata from audiovisual collections and related multi-media contextual sources that are maintained at cultural heritage and knowledge institutions in The Netherlands. For detailed information about the collections, see [the Media Suite data registry](http://mediasuitedata.clariah.nl/).
