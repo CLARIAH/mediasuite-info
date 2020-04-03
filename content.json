@@ -203,54 +203,60 @@
     	"title": "Release notes",
         "content": "release-notes",
         "children":[
-        	{
+					{
+											"title": "Version 4.11",
+											"content": "release-notes/v4-11"
+					},
+
+					{
+											"title": "Version 4.10",
+											"content": "release-notes/v4-10"
+					},
+					{
+											"title": "Version 4.9",
+											"content": "release-notes/v4-9"
+					},
+
+					{
+											"title": "Version 4.7",
+											"content": "release-notes/v4-7"
+					},
+					{
+											"title": "Version 4.4",
+											"content": "release-notes/v4-4"
+					},
+					{
+											"title": "Version 4.3",
+											"content": "release-notes/v4-3"
+					},
+					{
+											"title": "Version 4",
+											"content": "release-notes/v4"
+					},
+					{
+	                "title": "Version 3.2",
+	                "content": "release-notes/v3-2"
+	    		},
+					{
+							"title": "Version 3.1",
+							"content": "release-notes/v3-1"
+					},
+					{
+							"title": "Version 3",
+							"content": "release-notes/v3"
+					},
+					{
+							"title": "Version 2.1",
+							"content": "release-notes/v2-1"
+					},
+					{
+							"title": "Version 2",
+							"content": "release-notes/v2"
+					},
+					{
         		"title": "Version 1",
                 "content": "release-notes/v1"
-            },
-            {
-                "title": "Version 2",
-                "content": "release-notes/v2"
-            },
-            {
-                "title": "Version 2.1",
-                "content": "release-notes/v2-1"
-            },
-            {
-                "title": "Version 3",
-                "content": "release-notes/v3"
-            },
-            {
-                "title": "Version 3.1",
-                "content": "release-notes/v3-1"
-    		},
-    		{
-                "title": "Version 3.2",
-                "content": "release-notes/v3-2"
-    		},
-    		{
-                "title": "Version 4",
-                "content": "release-notes/v4"
-    		},
-    		{
-                "title": "Version 4.3",
-                "content": "release-notes/v4-3"
-    		},
-    		{
-                "title": "Version 4.4",
-                "content": "release-notes/v4-4"
-    		},
-     		{
-                "title": "Version 4.7",
-                "content": "release-notes/v4-7"
-        },
-        {
-                "title": "Version 4.9",
-                "content": "release-notes/v4-9"
-        },
-		{	
-                "title": "Version 4.10",
-                "content": "release-notes/v4-10"
-        }
+          }
     ]
     },
     {
