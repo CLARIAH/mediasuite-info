@@ -204,6 +204,10 @@
         "content": "release-notes",
         "children":[
 					{
+											"title": "Version 4.12",
+											"content": "release-notes/v4-12"
+					},
+					{
 											"title": "Version 4.11",
 											"content": "release-notes/v4-11"
 					},

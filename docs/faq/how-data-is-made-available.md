@@ -14,6 +14,4 @@ From the technical perspective, the Media Suite works with documents expressed i
 
 In parallel, there is ongoing work in converting all collections available via the Media Suite to JSON-LD documents (linked open data). This is with the aim to facilitate future integration with ANANSI (see documentation section "[Registering data](<http://mediasuite.clariah.nl/documentation/faq/can-register-data>)"), the CLARIAH linked data central connection of all datasets. In version 3, the Media Suite offers only one experimental collection in JSON-LD ("Open Images" from The Netherlands Institute for Sound and Vision). This collection can be browsed using the [Exploratory search tool](<http://mediasuite.clariah.nl/documentation/howtos/exploratory-search>). The “media objects” available in this way, are connected to the ES indexes, thus, users can seamlessly search and navigate this collection in both the ES-based Media Suite tools and the linked-data based exploratory tool. Future work (from September 2018 onwards) includes the conversion of the collections available in the Media Suite to linked open data.
 
-​	
-
-*(Last update: October 2, 2018)* *If you have any questions, please [contact us.]( https://mediasuite.clariah.nl/contact )*
+​

@@ -15,7 +15,3 @@ Note: Institutions making available their collections via the Media Suite are re
 **For end-users**
 
 Note: Registering your own personal datasets is not supported yet. But you can make your own "[User collections](<http://mediasuite.clariah.nl/documentation/howtos/user-collections>)" available via your Workspace.
-
-
-
-*(Last update: March 7, 2019)* *If you have any questions, please [contact us.]( https://mediasuite.clariah.nl/contact )*
