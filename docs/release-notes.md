@@ -1,5 +1,6 @@
 Release notes
 ---
+- [Version 4.14 (03-06-2020)](https://mediasuite.clariah.nl/documentation/release-notes/v4-14)
 - [Version 4.12 (22-04-2020)](https://mediasuite.clariah.nl/documentation/release-notes/v4-12)
 - [Version 4.11 (03-04-2020)](https://mediasuite.clariah.nl/documentation/release-notes/v4-11)
 - [Version 4.10 (25-03-2020)](https://mediasuite.clariah.nl/documentation/release-notes/v4-10)
